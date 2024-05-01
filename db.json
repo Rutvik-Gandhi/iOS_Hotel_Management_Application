@@ -1,0 +1,1945 @@
+{
+    "hotels": [{
+            "id": "6608967321242414",
+            "name": "Sun Island Resort & Spa Maldives",
+            "propertyType": "Resort",
+            "starRating": 5,
+            "categories": [
+                "SIMPLYWOW Deals",
+                "Best For Indians",
+                "Premium",
+                "Best Offers",
+                "All Meals Maldives",
+                "Indian food at the property",
+                "Daily Dhamaka",
+                "MyBiz Assured",
+                "Water Villa",
+                "Beach Villa",
+                "All-Inclusive Meals and Drinks",
+                "Travel Assist",
+                "MMT Exclusive",
+                "Kid Friendly",
+                "package_hotels",
+                "Package OfferAmazing Deals"
+            ],
+            "cat_spanish": [
+                "Ofertas SIMPLYWOW",
+                "Lo mejor para los indios",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Todas las comidas Maldivas",
+                "Comida india en la propiedad",
+                "Diario Dhamaka",
+                "MyBiz asegurado",
+                "Villa del Agua",
+                "Villa de Playa",
+                "Comidas y Bebidas Todo Incluido",
+                "Asistente de viaje",
+                "Exclusivo MMT",
+                "Amigable para ninos",
+                "paquete_hoteles",
+                "Oferta de paqueteOfertas increibles"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/e912fd687c1a11ec9ed20a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/840ad3567c1911ecb2250a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/859201ea7c1911ecbc100a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/875aa0367c1911ec90d10a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/86b48e807c1911ec94170a58a9feac02.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 3.48322,
+                "longitude": 72.80246
+            },
+            "desc": "Enjoy stunning ocean views from the Sun Island Resort & Spa Maldives's beachfront and overwater bungalows. \n\nSteps away from the beach, the Sun Island Resort & Spa Maldives's huge infinity free-form pool beckons you for a leisurely swim.Relax in the award-winning spa's Jacuzzi, and enjoy Swedish massages and herbal flower baths. For kids, there is a separate pool, play area, and babysitting service.Tee off at the on-site golf course, or curl up with a book from the Sun Island Resort & Spa Maldives on-site library. Looking for souvenirs? There are dedicated shops for jewellery, electronics, and artwork as well as a couple of boutiques on-site.Other hotel services include daily housekeeping and laundry. Contactless check-in/checkout and a 24-hour front desk offer added convenience. There is a business centre and conference room for business-oriented travellers.There is plenty to do in the waters surrounding the Maldives too. Sail through the exquisitely blue waters on a catamaran, trimaran or a glass-bottom boat. For a more leisurely experience, go canoeing, stand-up paddleboarding or ride a traditional dinghy. Adventurous souls will wish to enjoy kneeboarding, wakeboarding, kitesurfing and windsurfing.Jet surfing, Jetblades and semi-submarines are also available at the property. Sun Island Resort & Spa Maldives offers excursions to view dolphins, explore reefs, and picnic at deserted islands as well.",
+
+            "desc_spanish": "Disfrute de impresionantes vistas al mar desde los bungalows frente al mar y sobre el agua del Sun Island Resort & Spa Maldives. \n\nA pocos pasos de la playa, la enorme piscina infinita de forma libre del Sun Island Resort & Spa Maldives lo invita a nadar tranquilamente. Relajese en el jacuzzi del galardonado spa y disfrute de masajes suecos y banos de flores a base de hierbas. Para los ninos, hay una piscina separada, area de juegos y servicio de ninera. Juegue en el campo de golf del hotel o relajese con un libro de la biblioteca del hotel Sun Island Resort & Spa Maldives. ¿Buscas recuerdos? Hay tiendas dedicadas a la joyeria, la electronica y las obras de arte, asi como un par de boutiques en el lugar. Otros servicios del hotel incluyen limpieza diaria y lavanderia. El check-in/check-out sin contacto y la recepcion abierta las 24 horas ofrecen mayor comodidad. Hay un centro de negocios y una sala de conferencias para los viajeros de negocios. Tambien hay mucho que hacer en las aguas que rodean las Maldivas. Navega por las aguas exquisitamente azules en un catamaran, trimaran o en un barco con fondo de cristal. Para una experiencia mas relajada, practique canotaje, surf de remo o monte en un bote tradicional. Las almas aventureras desearan disfrutar del kneeboard, wakeboard, kitesurf y windsurf. Jet surf, Jetblades y semisubmarinos tambien estan disponibles en la propiedad. Sun Island Resort & Spa Maldives ofrece excursiones para ver delfines, explorar arrecifes y hacer picnics en islas desiertas."
+        },
+        {
+            "id": "201908291522179425",
+            "name": "The Standard, Huruvalhi Maldives",
+            "propertyType": "Resort",
+            "starRating": 5,
+            "categories": [
+                "SIMPLYWOW Deals",
+                "Best For Indians",
+                "Package Offer",
+                "Amazing Deals",
+                "Premium",
+                "Best Offers",
+                "All Meals Maldives",
+                "luxury_hotels",
+                "MyBiz Assured",
+                "Water Villa",
+                "Beach Villa",
+                "Sea Plane",
+                "Private Pool",
+                "All-Inclusive Meals and Drinks",
+                "Travel Assist",
+                "MMT Exclusive",
+                "Luxury Properties on Private Islands",
+                "Super Premium"
+            ],
+            "cat_spanish": [
+                "Ofertas SIMPLYWOW",
+                "Lo mejor para los indios",
+                "Oferta de paquete",
+                "Ofertas increibles",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Todas las comidas Maldivas",
+                "hoteles de lujo",
+                "MyBiz asegurado",
+                "Villa del Agua",
+                "Villa de Playa",
+                "avion de mar",
+                "Piscina privada",
+                "Comidas y Bebidas Todo Incluido",
+                "Asistente de viaje",
+                "Exclusivo MMT",
+                "Propiedades de Lujo en Islas Privadas",
+                "Super Premium"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/b581f58c10db11ea931f0242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/b581f58c10db11ea931f0242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/2ca7823ceb2311e9b9db0242ac110004.jpg",
+                "https://r1imghtlak.mmtcdn.com/0fba8110eb2311e9ba290242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/9dedcdcaf0b411e9b03d0242ac110004.jpg",
+                "https://r1imghtlak.mmtcdn.com/50fa0a52f16711e99e6c0242ac110009.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 5.39213,
+                "longitude": 72.9791
+            },
+            "desc": "The Standard Huruvalhi Maldives has 115 luxurious private pool villas set along the beach or overwater, on the lagoon. \n\nEach of the villas here offer stunning views of the beach or the ocean.\n\nSpend your days relaxing at the pristine beaches and exploring the waters surrounding it. The Standard Huruvalhi Maldives has a house reef where you can snorkel and scuba dive to your heart's content.Night snorkelling and trips to famous diving sites further away can be arranged too. Experience the joy of fishing and spotting turtles, dolphins (special cruises) in these marine-rich waters.Sign up for thrilling water sports, glass-bottom boat rides, picnics on deserted islands and sunset cruises.",
+
+            "desc_spanish": "The Standard Huruvalhi Maldives tiene 115 lujosas villas con piscina privada ubicadas a lo largo de la playa o sobre el agua, en la laguna. \n\nCada una de las villas aqui ofrece impresionantes vistas de la playa o el oceano.\n\nPase sus dias relajandose en las playas virgenes y explorando las aguas que las rodean. El Standard Huruvalhi Maldives tiene un arrecife en el que se puede practicar esnorquel y buceo a placer. Tambien se pueden organizar esnorquel nocturno y viajes a sitios de buceo famosos mas lejanos. Experimente la alegria de pescar y observar tortugas, delfines (cruceros especiales) en estas aguas marinas ricas. Registrese para emocionantes deportes acuaticos, paseos en bote con fondo de cristal, picnics en islas desiertas y cruceros al atardecer."
+        },
+        {
+            "id": "201712141452563048",
+            "name": "The Somerset Hotel",
+            "propertyType": "Hotel",
+            "starRating": 4,
+            "categories": [
+                "Chain",
+                "SIMPLYWOW Deals",
+                "Best For Indians",
+                "Amazing Deals",
+                "Premium",
+                "Best Offers",
+                "Guesthouses Near Male Airport",
+                "All Meals Maldives",
+                "Indian food at the property",
+                "Daily Dhamaka",
+                "MyBiz Assured",
+                "Economical Transfer Cost Maldives",
+                "Couple Friendly",
+                "Travel Assist",
+                "Accessible by Road"
+            ],
+            "cat_spanish": [
+                "Cadena",
+                "Ofertas SIMPLYWOW",
+                "Lo mejor para los indios",
+                "Ofertas increibles",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Casas de huespedes cerca del aeropuerto de Male",
+                "Todas las comidas Maldivas",
+                "Comida india en la propiedad",
+                "Diario Dhamaka",
+                "MyBiz asegurado",
+                "Costo de Transferencia Economica Maldivas",
+                "Pareja amigable",
+                "Asistente de viaje",
+                "Accesible por carretera"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/90101df03f7511ebb5260242ac110005.jpg",
+                "https://r1imghtlak.mmtcdn.com/28e0b718ffc911e89bc20242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/0b1d0860ffcb11e8a9930242ac110006.jfif",
+                "https://r1imghtlak.mmtcdn.com/1e356524ffca11e8b2ad0242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/8ea23882ffca11e8a1ee0242ac110002.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.17757,
+                "longitude": 73.50969
+            },
+            "desc": "The Somerset Hotel offers free transfers from the airport, a 15-minute drive away. An on-site tour desk and ticket service are available to plan sightseeing and adventures in Maldives.Additional features include a gym and childcare service.\n\nDine at the on-site restaurant that serves Indian food and has special meals for kids.",
+
+            "desc_spanish": "El Somerset Hotel ofrece traslados gratuitos desde el aeropuerto, a 15 minutos en coche. Hay un mostrador de informacion turistica y un servicio de venta de entradas disponibles para planificar excursiones y aventuras en Maldivas. Entre las caracteristicas adicionales se incluyen un gimnasio y servicio de guarderia.\n\nCene en el restaurante del hotel que sirve comida india y tiene comidas especiales para ninos."
+        },
+        {
+            "id": "6608967321242328",
+            "name": "Holiday Inn Resort Kandooma Maldives",
+            "propertyType": "Resort",
+            "starRating": 4,
+            "categories": [
+                "Certified Hygienic Properties",
+                "Best For Indians",
+                "Amazing Deals",
+                "Speed Boat",
+                "Indian food at the property",
+                "Resorts Near Male Airport",
+                "MyBiz Assured",
+                "Water Villa",
+                "Beachfront",
+                "chain hotel",
+                "Beach Villa",
+                "Travel Assist",
+                "Kid Friendly",
+                "Super Premium"
+            ],
+            "cat_spanish": [
+                "Propiedades higienicas certificadas",
+                "Lo mejor para los indios",
+                "Ofertas increibles",
+                "Lancha rapida",
+                "Comida india en la propiedad",
+                "Resorts cerca del aeropuerto de Male",
+                "MyBiz asegurado",
+                "Villa del Agua",
+                "Frente a la playa",
+                "hotel de cadena",
+                "Villa de Playa",
+                "Asistente de viaje",
+                "Amigable para ninos",
+                "Super Premium"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/654244c20df711eb99590242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/a79016380df711eb8a4e0242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/a9df4f440df711eba3ec0242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/ae31e26e0df711eba6520242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/bb9c577c0df711eb8a4e0242ac110002.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 3.90463,
+                "longitude": 73.47242
+            },
+            "desc": "Holiday Inn Resort Kandooma Maldives features 160 villas and houses set across the island' lush interiors, white sandy beaches or over water. \n\nSurf the waves, and explore the underseas with diving, snorkelling sessions. For a more adventurous session, head to the ship wrecks a speedboat ride away.Sign up for dolphin-spotting cruises, swimming with sea turtles, and water sports such as wakeboarding and windsurfing. Holiday Inn Resort Kandooma Maldives is close to famous surfing points, and offers surfing classes too.Back at the resort, Holiday Inn Resort Kandooma Maldives has an oceanfront infinity pool and Kandooma Spa by COMO Shambhala.Guests can workout at the fitness centre or run on the jogging track around the island.",
+
+            "desc_spanish": "Holiday Inn Resort Kandooma Maldives cuenta con 160 villas y casas ubicadas en los exuberantes interiores de la isla, las playas de arena blanca o sobre el agua. \n\nSurfea las olas y explora el fondo del mar con sesiones de buceo y esnorquel. Para una sesion mas aventurera, dirijase a los naufragios de un barco a un paseo en lancha rapida. Registrese en cruceros para observar delfines, nadar con tortugas marinas y practicar deportes acuaticos como wakeboard y windsurf. Holiday Inn Resort Kandooma Maldives esta cerca de famosos puntos de surf y tambien ofrece clases de surf. De vuelta en el resort, Holiday Inn Resort Kandooma Maldives tiene una piscina infinita frente al mar y Kandooma Spa by COMO Shambhala. Los huespedes pueden hacer ejercicio en el gimnasio o correr en la pista de jogging alrededor de la isla."
+        },
+        {
+            "id": "201903131804465354",
+            "name": "Samann Grand",
+            "propertyType": "Hotel",
+            "starRating": 4,
+            "categories": [
+                "SIMPLYWOW Deals",
+                "Best For Indians",
+                "Amazing Deals",
+                "Premium",
+                "Best Offers",
+                "Guesthouses Near Male Airport",
+                "Indian food at the property",
+                "MyBiz Assured",
+                "Economical Transfer Cost Maldives",
+                "Travel Assist",
+                "MMT Exclusive",
+                "Accessible by Road"
+            ],
+            "cat_spanish": [
+                "Ofertas SIMPLYWOW",
+                "Lo mejor para los indios",
+                "Ofertas increibles",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Casas de huespedes cerca del aeropuerto de Male",
+                "Comida india en la propiedad",
+                "MyBiz asegurado",
+                "Costo de Transferencia Economica Maldivas",
+                "Asistente de viaje",
+                "Exclusivo MMT",
+                "Accesible por carretera"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/0f993b06458611e9b4c10242ac110004.jpg",
+                "https://r1imghtlak.mmtcdn.com/0f64c7c2458611e9b7f60242ac110004.jpg",
+                "https://r1imghtlak.mmtcdn.com/2814fe9a458611e9a1b40242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/dc72e4e8c3f711e996200242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/055e4078458611e9abac0242ac110005.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.17637,
+                "longitude": 73.51654
+            },
+            "desc": "All rooms boast stunning ocean views from their private balconies.\n\nEnjoy stunning ocean views from the Samann Grand's terrace. Avail the tour desk assistance to explore the city and other islands of Maldives.Free Wi-Fi helps stay connected with loved ones. Additional facilities include a 24-hour front desk, contactless check-in/checkout and car rental service too.Concierge and currency exchange are available. Guests can withdraw money from an ATM just 970 m away from Samann Grand. \n\nContinue to enjoy stunning views of the ocean as you dine at the on-site restaurant.",
+
+            "desc_spanish": "Todas las habitaciones cuentan con impresionantes vistas al mar desde sus balcones privados.\n\nDisfrute de impresionantes vistas al mar desde la terraza del Samann Grand. Aproveche la asistencia del mostrador de informacion turistica para explorar la ciudad y otras islas de Maldivas. El Wi-Fi gratuito lo ayuda a mantenerse conectado con sus seres queridos. Entre las instalaciones adicionales se incluyen una recepcion abierta las 24 horas, registro de entrada/salida sin contacto y servicio de alquiler de coches. Hay servicio de conserjeria y de cambio de divisas. Los huespedes pueden retirar dinero de un cajero automatico a solo 970 m de Samann Grand. \n\nContinue disfrutando de las impresionantes vistas del oceano mientras cena en el restaurante del hotel."
+        },
+        {
+            "id": "201703271855051196",
+            "name": "Coconut Tree Hulhuvilla Beach",
+            "propertyType": "Guest House",
+            "starRating": 4,
+            "categories": [
+                "Best For Indians",
+                "Amazing Deals",
+                "LongStay2020",
+                "Long Stays",
+                "Premium",
+                "Best Offers",
+                "Guesthouses Near Male Airport",
+                "Indian food at the property",
+                "MyBiz Assured",
+                "Economical Transfer Cost Maldives",
+                "Travel Assist",
+                "Accessible by Road"
+            ],
+            "cat_spanish": [
+                "Lo mejor para los indios",
+                "Ofertas increibles",
+                "Estancia larga 2020",
+                "Estancias Largas",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Casas de huespedes cerca del aeropuerto de Male",
+                "Comida india en la propiedad",
+                "MyBiz asegurado",
+                "Costo de Transferencia Economica Maldivas",
+                "Asistente de viaje",
+                "Accesible por Carretera"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/602972ee76e511e9b35c0242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/66ff288476e511e98eb90242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/a566f072ee5211e980c30242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/a5675eb8ee5211e9831b0242ac110005.jpg",
+                "https://r1imghtlak.mmtcdn.com/ac089d2cee5211e9b50d0242ac110005.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.21831,
+                "longitude": 73.54541
+            },
+            "desc": "Opened in 2015, the property has 12 air-conditioned rooms across 3 floors. Hindi and English-speaking staff are available for assistance at Coconut Tree Hulhuvilla Beach.\n\nFacilities here include concierge, laundry and daily housekeeping services. Coconut Tree Hulhuvilla Beach has a smoking area at the premises, and a sun terrace where you can relax and enjoy the city views.\n\nGuests can dine at the on-site restaurant.\n\nCar rentals and free shuttle service are available as well at Coconut Tree Hulhuvilla Beach.",
+
+            "desc_spanish": "Inaugurado en 2015, la propiedad cuenta con 12 habitaciones con aire acondicionado en 3 plantas. El personal que habla hindi e ingles esta disponible para brindar asistencia en Coconut Tree Hulhuvilla Beach.\n\nLas instalaciones aqui incluyen servicios de conserjeria, lavanderia y limpieza diaria. Coconut Tree Hulhuvilla Beach tiene una zona para fumadores en las instalaciones y un solarium donde podra relajarse y disfrutar de las vistas a la ciudad.\n\nLos huespedes pueden cenar en el restaurante del hotel.\n\nSe ofrece servicio de alquiler de coches y de transporte gratuito. asi como en la playa de Coconut Tree Hulhuvilla."
+        },
+        {
+            "id": "201711291740083240",
+            "name": "JEN Maldives Male by Shangri-La",
+            "propertyType": "Hotel",
+            "starRating": 4,
+            "categories": [
+                "MyBiz Assured",
+                "Economical Transfer Cost Maldives",
+                "Best For Indians",
+                "Travel Assist",
+                "Amazing Deals",
+                "Premium",
+                "Best Offers",
+                "Guesthouses Near Male Airport",
+                "Accessible by Road",
+                "Indian food at the property"
+            ],
+            "cat_spanish": [
+                "MyBiz asegurado",
+                "Costo de Transferencia Economica Maldivas",
+                "Lo mejor para los indios",
+                "Asistente de viaje",
+                "Ofertas increibles",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Casas de huespedes cerca del aeropuerto de Male",
+                "Accesible por carretera",
+                "Comida india en la propiedad"
+            ],
+            "media": [
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201711291740083240-dd00fcbb_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201711291740083240-a54047d7_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201711291740083240-d45fab69_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201711291740083240-9520a756_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201711291740083240-aee6492f_z.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.1779,
+                "longitude": 73.51365
+            },
+            "desc": "The property opened in 2009.\n\nOcean-view rooms are available.\n\nAfter a long day of work, relax with a swim in the rooftop infinity pool. The pool overlooks the ocean.Work out at the 24-hour gym, and to relax, head to the luxury spa for a massage. Business travellers can conduct meetings in the hotel's well-equipped meeting rooms.Besides these, the hotel offers contactless check-in/checkout, 24-hour front desk and a separate smoking area. Daily housekeeping, luggage storage, currency exchange, concierge and laundry services are available too.English and Hindi-speaking staff are available for assistance.\n\nFor dining, the hotel has 3 eateries including a restaurant with Indian food. 24-hour room service, halal food and a choice of Asian and Continental breakfast can be enjoyed too.",
+
+            "desc_spanish": "La propiedad abrio sus puertas en 2009.\n\nHay habitaciones con vista al mar disponibles.\n\nDespues de un largo dia de trabajo, relajese con un bano en la piscina infinita de la azotea. La piscina tiene vista al mar.Haga ejercicio en el gimnasio abierto las 24 horas y, para relajarse, dirijase al spa de lujo para recibir un masaje. Los viajeros de negocios pueden celebrar reuniones en las salas de reuniones bien equipadas del hotel. Ademas, el hotel ofrece registro de entrada/salida sin contacto, recepcion las 24 horas y una zona de fumadores separada. Tambien se ofrecen servicios diarios de limpieza, deposito de equipaje, cambio de divisas, conserjeria y lavanderia. El personal que habla ingles e hindi esta disponible para brindar asistencia.\n\nPara cenar, el hotel tiene 3 restaurantes, incluido un restaurante de comida india. Tambien se puede disfrutar de servicio de habitaciones las 24 horas, comida halal y una seleccion de desayuno asiatico y continental."
+        },
+        {
+            "id": "202110191105022863",
+            "name": "iCom Marina Sea View",
+            "propertyType": "Resort",
+            "starRating": 3,
+            "categories": [
+
+            ],
+            "cat_spanish": [
+
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/15ae92a8455011ecb5050a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/dfa708e82fe711ecb29b0a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/0ed15d4e2fe811ec93ec0a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/17c1c2902fe811eca97d0a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/489015e83da811ec8cad0a58a9feac02.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 3.9413,
+                "longitude": 73.48889
+            },
+            "desc": "iCom Marina Seaview is a luxurious beachfront Hotel in Maafushi, South Male Atoll. The Hotel features air conditioned room, on site restaurant and free Wi-Fi access which covers the entire property. All rooms are characterized by a fusion of contemporary and Luxury design, featuring fine-quality beds and modern bathroom facilities, flat screen TV, safety deposit box and mini bar. Private bathrooms come with hot and cold rain shower facilities and hair dryers. Guest can relax on the private seating areas in the secluded garden plus a discreet sunbathing spot within the wall iCom Marina Seaview. For those who like to get active, visit our front desk to arrange an array of water based outdoor activities and private picnics.",
+
+            "desc_spanish": "iCom Marina Seaview es un lujoso hotel frente al mar en Maafushi, en el atolon sur de Male. El hotel cuenta con habitaciones con aire acondicionado, restaurante en el lugar y acceso Wi-Fi gratuito que cubre toda la propiedad. Todas las habitaciones se caracterizan por una fusion de diseno contemporaneo y lujoso, con camas de excelente calidad y modernas instalaciones de bano, TV de pantalla plana, caja fuerte y minibar. Los banos privados cuentan con ducha de lluvia fria y caliente y secador de pelo. Los huespedes pueden relajarse en las areas de estar privadas en el jardin aislado, ademas de un lugar discreto para tomar el sol dentro de la pared iCom Marina Seaview. Para aquellos a quienes les gusta mantenerse activos, visite nuestra recepcion para organizar una variedad de actividades acuaticas al aire libre y picnics privados."
+        },
+        {
+            "id": "6608967321242295",
+            "name": "Sheraton Maldives Full Moon Resort & Spa",
+            "propertyType": "Resort",
+            "starRating": 5,
+            "categories": [
+                "Best For Indians",
+                "Amazing Deals",
+                "Premium",
+                "Best Offers",
+                "Speed Boat",
+                "All Meals Maldives",
+                "luxury_hotels",
+                "Resorts Near Male Airport",
+                "MyBiz Assured",
+                "Water Villa",
+                "Beach Villa",
+                "Travel Assist",
+                "Kid Friendly"
+            ],
+            "cat_spanish": [
+                "Lo mejor para los indios",
+                "Ofertas increibles",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Lancha rapida",
+                "Todas las comidas Maldivas",
+                "hoteles de lujo",
+                "Resorts cerca del aeropuerto de Male",
+                "MyBiz asegurado",
+                "Villa del Agua",
+                "Villa de Playa",
+                "Asistente de viaje",
+                "Amigable para ninos"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/cfde9d606aea11ed9ee70a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/e5705d9e6aea11ed82160a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/4e534cc26aeb11ed84d30a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/4e86bb5c6aeb11ed8ec20a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/4ee0d3e46aeb11edb3b20a58a9feac02.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.25002,
+                "longitude": 73.54311
+            },
+            "desc": "The luxury resort offers 176 rooms, overwater bungalows, and ocean view villas.\n\nThe resort has won several awards over the years including the Best Luxury Family Resort Worldwide at the Hotel of The Year Awards 2020.The resort was also the continental winner for Luxury Family Beach Resort at the World Luxury Awards 2020. Its spa, Shine Spa for Sheraton was named the regional winner for Luxury Romantic Destination Spa at the World Luxury Awards 2020.The resort's Sea Salt restaurant was awarded for Luxury Beachside Restaurant at the same awards.\n\nAccommodations here overlook either the resort's garden, private beach or the stunning ocean.",
+
+            "desc_spanish": "El complejo de lujo ofrece 176 habitaciones, bungalos sobre el agua y villas con vista al mar.\n\nEl complejo ha ganado varios premios a lo largo de los anos, incluido el de Mejor complejo familiar de lujo en todo el mundo en los premios Hotel of The Year 2020. El complejo tambien fue el ganador continental para Luxury Family Beach Resort en los World Luxury Awards 2020. Su spa, Shine Spa for Sheraton, fue nombrado ganador regional como Luxury Romantic Destination Spa en los World Luxury Awards 2020. El restaurante Sea Salt del resort fue premiado como Luxury Beachside Restaurant en el mismo premios.\n\nLos alojamientos tienen vista al jardin del resort, a la playa privada o al impresionante oceano."
+        },
+        {
+            "id": "6608967321242249",
+            "name": "Champa Central Hotel",
+            "propertyType": "Hotel",
+            "starRating": 4,
+            "categories": [
+                "Economical Transfer Cost Maldives",
+                "Amazing Deals",
+                "Guesthouses Near Male Airport",
+                "valuedeals",
+                "Accessible by Road",
+                "Indian food at the property"
+            ],
+            "cat_spanish": [
+                "Costo de Transferencia Economica Maldivas",
+                "Ofertas increibles",
+                "Casas de huespedes cerca del aeropuerto de Male",
+                "ofertas de valor",
+                "Accesible por carretera",
+                "Comida india en la propiedad"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/760122724ed311e99f650242ac110005.jpg",
+                "https://r1imghtlak.mmtcdn.com/4b3da8b056c311e9aa8b0242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/3fddb43856c311e995380242ac110004.jpg",
+                "https://r1imghtlak.mmtcdn.com/3f59907256c311e99b9e0242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/4029f37056c311e9a9760242ac110004.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.17431,
+                "longitude": 73.51024
+            },
+            "desc": "Start your day with workouts at the on-site gym. Stay connected with loved ones back home via the hotel's free Wi-Fi.The property offers free airport transfers on request. It can also arrange for sunset cruises, sightseeing tours, and excursions to Meeru Island Resort & Spa.Sign up for submarine excursions, scuba diving expeditions and other water sports.\n\nFor dining, the property offers 2 dining outlets. Both offer great views of the city skyline. Besides 24-hour room service, guests can enjoy halal food and Continental breakfast.\n\nThe property offers airport transfers on request.",
+
+            "desc_spanish": "Comience el dia con ejercicios en el gimnasio del hotel. Mantengase conectado con sus seres queridos en casa a traves de la conexion Wi-Fi gratuita del hotel. El establecimiento ofrece traslados gratuitos al aeropuerto bajo peticion. Tambien puede organizar cruceros al atardecer, recorridos turisticos y excursiones a Meeru Island Resort & Spa. Registrese para excursiones submarinas, expediciones de buceo y otros deportes acuaticos.\n\nPara cenar, el establecimiento ofrece 2 restaurantes. Ambos ofrecen excelentes vistas del horizonte de la ciudad. Ademas del servicio de habitaciones las 24 horas, los huespedes pueden disfrutar de comida halal y desayuno continental.\n\nLa propiedad ofrece traslados al aeropuerto bajo peticion."
+        },
+        {
+            "id": "201712071122066743",
+            "name": "Velana Beach Hotel Maldives",
+            "propertyType": "Hotel",
+            "starRating": 4,
+            "categories": [
+                "SIMPLYWOW Deals",
+                "Economical Transfer Cost Maldives",
+                "Best For Indians",
+                "MMT Exclusive",
+                "Amazing Deals",
+                "Guesthouses Near Male Airport",
+                "Speed Boat",
+                "ihblack"
+            ],
+            "cat_spanish": [
+                "Ofertas SIMPLYWOW",
+                "Costo de Transferencia Economica Maldivas",
+                "Lo mejor para los indios",
+                "Exclusivo MMT",
+                "Ofertas increibles",
+                "Casas de huespedes cerca del aeropuerto de Male",
+                "Lancha rapida",
+                "ihnegro"
+            ],
+            "media": [
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201712071122066743-88533d4efc2b11ec9e7c0a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/18a27816d4e911e7b4850a209fbd0127.jpg",
+                "https://r1imghtlak.mmtcdn.com/195b5b56d4e911e7b82702755708f0b3.jpg",
+                "https://r1imghtlak.mmtcdn.com/16471ef0d4e911e791fe0a209fbd0127.jpg",
+                "https://r1imghtlak.mmtcdn.com/1d6e15906d7611e983170242ac110004.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 3.94348,
+                "longitude": 73.49222
+            },
+            "desc": "The property has 18 air-conditioned rooms.\n\nBesides Wi-Fi, the property boasts facilities such as 24-hour check-in, luggage storage and daily housekeeping. There is a smoking area and a 24-hour front desk.Laundry and concierge services are available too. Explore the island on the free bikes provided by the hotel.\n\nStart your day with a Continental breakfast. For other meals. enjoy a choice of delicacies at the on-site restaurant. Room service, BBQ facilities and halal food are available.\n\nBesides shuttle service and airport transfers, the property offers bicycle rentals.",
+
+            "desc_spanish": "La propiedad cuenta con 18 habitaciones con aire acondicionado.\n\nAdemas de Wi-Fi, la propiedad cuenta con instalaciones como check-in las 24 horas, deposito de equipaje y servicio de limpieza diario. Hay una zona para fumadores y una recepcion abierta las 24 horas. Tambien hay servicios de lavanderia y de conserjeria disponibles. Explore la isla en las bicicletas gratuitas proporcionadas por el hotel.\n\nComience el dia con un desayuno continental. Para otras comidas. disfrute de una seleccion de delicias en el restaurante del hotel. Se ofrece servicio de habitaciones, zona de barbacoa y comida halal.\n\nAdemas del servicio de traslado y de enlace con el aeropuerto, el establecimiento ofrece alquiler de bicicletas."
+        },
+        {
+            "id": "201603311558363416",
+            "name": "Arena Beach Hotel",
+            "propertyType": "Hotel",
+            "starRating": 4,
+            "categories": [
+                "SIMPLYWOW Deals",
+                "Best For Indians",
+                "Amazing Deals",
+                "LongStay2020",
+                "Long Stays",
+                "Premium",
+                "Best Offers",
+                "Guesthouses Near Male Airport",
+                "Speed Boat",
+                "Indian food at the property",
+                "MyBiz Assured",
+                "Economical Transfer Cost Maldives",
+                "Travel Assist",
+                "MMT Exclusive"
+            ],
+            "cat_spanish": [
+                "Ofertas SIMPLYWOW",
+                "Lo mejor para los indios",
+                "Ofertas increibles",
+                "Estancia larga 2020",
+                "Estancias Largas",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Casas de huespedes cerca del aeropuerto de Male",
+                "Lancha rapida",
+                "Comida india en la propiedad",
+                "MyBiz asegurado",
+                "Costo de Transferencia Economica Maldivas",
+                "Asistente de viaje",
+                "Exclusivo MMT"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/dbe0cf08b74311e7bb290a209fbd0127.jpeg",
+                "https://r1imghtlak.mmtcdn.com/d518d166b74311e7b50102755708f0b3.jpeg",
+                "https://r1imghtlak.mmtcdn.com/cc29c83ab74311e78e150a209fbd0127.jpeg",
+                "https://r1imghtlak.mmtcdn.com/dd894916b74311e796aa0224510f5e5b.jpeg",
+                "https://r1imghtlak.mmtcdn.com/e431dabcb74311e78b2c0a9df65c8753.jpeg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 3.945,
+                "longitude": 73.49173
+            },
+            "desc": "Opened in 2014, Arena Beach Hotel has 50 rooms across 7 floors. Hindi and English-speaking staff are available for assistance.\n\nThe rooms here have private balconies, and offer amazing ocean views.\n\nThe Arena Beach Hotel has rooftop pool which boasts stunning ocean views, and is a great place to relax. It has sun loungers and a hot tub too.Bask in the sun at the private beach. Enjoy water sports such as diving, snorkelling and windsurfing. Sign up for a dolphin-watching cruise or night fishing.Arena Beach Hotel can also arrange scuba diving classes, motorized water sports, tours and excursions. Other facilities include a convenience store and library.Daily housekeeping, laundry, concierge and currency exchange services are available. Arena Beach Hotel has a private smoking area as well.",
+
+            "desc_spanish": "Inaugurado en 2014, Arena Beach Hotel cuenta con 50 habitaciones distribuidas en 7 plantas. El personal que habla hindi e ingles esta disponible para brindar asistencia.\n\nLas habitaciones aqui tienen balcones privados y ofrecen increibles vistas al oceano.\n\nEl Arena Beach Hotel tiene una piscina en la azotea que cuenta con impresionantes vistas al oceano, y es un gran lugar para relajarse . Tambien tiene tumbonas y una banera de hidromasaje.Tome el sol en la playa privada. Disfruta de deportes acuaticos como el buceo, el snorkel y el windsurf. Registrese para un crucero de observacion de delfines o pesca nocturna. El Arena Beach Hotel tambien puede organizar clases de buceo, deportes acuaticos motorizados, tours y excursiones. Otras instalaciones incluyen una tienda y una biblioteca. Se ofrecen servicios diarios de limpieza, lavanderia, conserjeria y cambio de divisas. Arena Beach Hotel tambien tiene una zona privada para fumadores."
+        },
+        {
+            "id": "6608967321242363",
+            "name": "Meeru Island Resort & Spa",
+            "propertyType": "Resort",
+            "starRating": 4,
+            "categories": [
+                "SIMPLYWOW Deals",
+                "Best For Indians",
+                "Amazing Deals",
+                "Premium",
+                "Best Offers",
+                "Speed Boat",
+                "Indian food at the property",
+                "Resorts Near Male Airport",
+                "MyBiz Assured",
+                "Water Villa",
+                "Beach Villa",
+                "All-Inclusive Meals and Drinks",
+                "Travel Assist",
+                "MMT Exclusive",
+                "Kid Friendly",
+                "All Meals Maldivess",
+                "Super Premium",
+                "package_hotels"
+            ],
+            "cat_spanish": [
+                "Ofertas SIMPLYWOW",
+                "Lo mejor para los indios",
+                "Ofertas increibles",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Lancha rapida",
+                "Comida india en la propiedad",
+                "Resorts cerca del aeropuerto de Male",
+                "MyBiz asegurado",
+                "Villa del Agua",
+                "Villa de Playa",
+                "Comidas y Bebidas Todo Incluido",
+                "Asistente de viaje",
+                "Exclusivo MMT",
+                "Amigable para ninos",
+                "Todas las comidas Maldivas",
+                "Super Premium",
+                "paquete_hoteles"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/976314ae757711ea978d0242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/9cdb59c2806911e984f50242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/256ebabe757811eabb1b0242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/5935edd0806a11e9a6980242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/8268a330946411e79385025f77df004f.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.4533,
+                "longitude": 73.71716
+            },
+            "desc": "Last renovated in 2012, this property has 284 rooms and villas. English, Hindi and Tamil-speaking staff are available for assistance.\n\nRooms here overlook the lush tropical gardens, the serene beaches or the turquoise blue lagoon.\n\nSign up for indulgent spa therapies, swim laps in the infinity pool, and work out at the in-house fitness centre at Meeru Island Resort & Spa.Visit the Meeru Museum for a glimpse into the local art, culture, and way of life. Dedicated clubs for kids and teens have games, play areas, activities and even a snooker table.There are 2 additionalß games rooms for adults with billiards, foosball and darts at Meeru Island Resort & Spa. Curl up by the poolside with a book from the library, or play golf at the on-site golf course.",
+
+            "desc_spanish": "Renovada por ultima vez en 2012, esta propiedad cuenta con 284 habitaciones y villas. El personal que habla ingles, hindi y tamil esta disponible para brindar asistencia.\n\nLas habitaciones tienen vista a los exuberantes jardines tropicales, las serenas playas o la laguna azul turquesa.\n\nRegistrese para terapias de spa indulgentes, nade en la piscina infinita, y ejercitese en el gimnasio del Meeru Island Resort & Spa. Visite el Museo Meeru para echar un vistazo al arte, la cultura y la forma de vida locales. Los clubes exclusivos para ninos y adolescentes tienen juegos, areas de juego, actividades e incluso una mesa de billar. Hay 2 salas de juegos adicionales para adultos con billar, futbolin y dardos en Meeru Island Resort & Spa. Recuestese junto a la piscina con un libro de la biblioteca o juegue al golf en el campo de golf del hotel."
+        },
+        {
+            "id": "202105101342322808",
+            "name": "Kuda Villingili Resort, Maldives",
+            "propertyType": "Resort",
+            "starRating": 5,
+            "categories": [
+                "Beach Villa"
+            ],
+            "cat_spanish": [
+                "Villa de playa"
+            ],
+            "media": [
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202105101342322808-b077d8c2b30f11eb9ccd0242ac110004.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202105101342322808-94022eecae7111ebb8b20242ac110002.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202105101342322808-6b7b0296ae7111ebb74a0242ac110002.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202105101342322808-ad18247cae7111eba10b0242ac110002.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202105101342322808-837c5598ae7111ebbaa00242ac110002.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.37644,
+                "longitude": 73.66281
+            },
+            "desc": "Kuda Villingili Resort Maldives is an island where time and space matter. Connect with your loved ones, make up for the time lost, strengthen friendships and create new ones in this slice of paradise; whether you are a solo traveller, a couple, a family or traveling in a group, this idyllic haven perfectly balances a sense of togetherness and inclusivity with utter privacy and independence. A powerful sense of freedom permeates the villas: the freedom to redefine time and space.",
+
+            "desc_spanish": "Kuda Villingili Resort Maldives es una isla donde el tiempo y el espacio importan. Conectate con tus seres queridos, recupera el tiempo perdido, fortalece amistades y crea nuevas en este pedazo de paraiso; ya sea que viaje solo, en pareja, en familia o en grupo, este paraiso idilico equilibra perfectamente una sensacion de union e inclusion con total privacidad e independencia. Una poderosa sensacion de libertad impregna las villas: la libertad de redefinir el tiempo y el espacio."
+        },
+        {
+            "id": "201711031520362787",
+            "name": "Bandos Maldives",
+            "propertyType": "Resort",
+            "starRating": 4,
+            "categories": [
+                "SIMPLYWOW Deals",
+                "GREAT DEALS",
+                "Kid Stays Free",
+                "Package Offer",
+                "Staycation Deals",
+                "LongStay2020",
+                "Long Stays",
+                "Speed Boat",
+                "All Meals Maldives",
+                "Indian food at the property",
+                "Resorts Near Male Airport",
+                "Curated Staycations",
+                "Water Villa",
+                "Beachfront",
+                "Beach Villa",
+                "Romantic Stays",
+                "All-Inclusive Meals and Drinks",
+                "MMT Exclusive",
+                "Kid Friendly",
+                "package_hotels"
+            ],
+            "cat_spanish": [
+                "Ofertas SIMPLYWOW",
+                "GRANDES OFERTAS",
+                "El nino se queda libre",
+                "Oferta de paquete",
+                "Ofertas de vacaciones en casa",
+                "Estancia larga 2020",
+                "Estancias Largas",
+                "Lancha rapida",
+                "Todas las comidas Maldivas",
+                "Comida india en la propiedad",
+                "Resorts cerca del aeropuerto de Male",
+                "Estadias seleccionadas",
+                "Villa del Agua",
+                "Frente a la playa",
+                "Villa de Playa",
+                "Estancias Romanticas",
+                "Comidas y Bebidas Todo Incluido",
+                "Exclusivo MMT",
+                "Amigable para ninos",
+                "paquete_hoteles"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/643ae464d01d11e7a9330a337eb60284.jpg",
+                "https://r1imghtlak.mmtcdn.com/61e1d7aed01d11e7bdee0224510f5e5b.jpg",
+                "https://r1imghtlak.mmtcdn.com/65b8eeeed01d11e78cbb02755708f0b3.jpg",
+                "https://r1imghtlak.mmtcdn.com/f2494edc22f311ea958f0242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/635898f2d01d11e7af260224510f5e5b.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.26796,
+                "longitude": 73.4925
+            },
+            "desc": "The Bandos Maldives opened in the year 1972 as the second resort in the Maldives. It boasts an award-winning diving centre (longest run in the Maldives) and an in-house reef considered one of the finest in North Male Atoll for snorkeling and scuba diving.\n\nThe award-winning Dive Bandos (oldest diving centre in Maldives) is a part of the internationally acclaimed PADI International Resort Association.\n\nStay in spacious rooms with balconies overlooking the garden or beach.\n\nFree Wi-Fi and a medical clinic are available at Bandos Maldives. The hotel staff speaks Hindi, making you feel at home in a new city.You can buy gifts for loved ones at the souvenir shop or jewelry shop.",
+            "desc_spanish": "El Bandos Maldives abrio en el ano 1972 como el segundo resort en las Maldivas. Cuenta con un centro de buceo galardonado (el mas antiguo de las Maldivas) y un arrecife interno considerado uno de los mejores del atolon de Male Norte para practicar esnorquel y buceo.\n\nEl galardonado Dive Bandos (el centro de buceo mas antiguo de Maldives) es parte de la internacionalmente aclamada PADI International Resort Association.\n\nHospedese en amplias habitaciones con balcones con vista al jardin o a la playa.\n\nBandos Maldives dispone de Wi-Fi gratis y una clinica medica. El personal del hotel habla hindi, por lo que se sentira como en casa en una nueva ciudad. Puede comprar regalos para sus seres queridos en la tienda de souvenirs o en la joyeria."
+        },
+        {
+            "id": "201907041341588834",
+            "name": "Medhufushi Island Resort Maldives",
+            "propertyType": "Resort",
+            "starRating": 4,
+            "categories": [
+                "SIMPLYWOW Deals",
+                "Best For Indians",
+                "Long Stays",
+                "Premium",
+                "Best Offers",
+                "All Meals Maldives",
+                "MyBiz Assured",
+                "Water Villa",
+                "Beach Villa",
+                "Sea Plane",
+                "All-Inclusive Meals and Drinks",
+                "Travel Assist",
+                "MMT Exclusive",
+                "package_hotels",
+                "Package OfferAmazing Deals"
+            ],
+            "cat_spanish": [
+                "Ofertas SIMPLYWOW",
+                "Lo mejor para los indios",
+                "Estancias Largas",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Todas las comidas Maldivas",
+                "MyBiz asegurado",
+                "Villa del Agua",
+                "Villa de Playa",
+                "avion de mar",
+                "Comidas y Bebidas Todo Incluido",
+                "Asistente de viaje",
+                "Exclusivo MMT",
+                "paquete_hoteles",
+                "Oferta de paqueteOfertas increibles"
+            ],
+            "media": [
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201907041341588834-ca5a173ec32211e9a5ef0242ac110003.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201907041341588834-37db0156bf4a11e998b80242ac110003.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201907041341588834-b1fa3358bf4a11e997560242ac110003.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201907041341588834-bc6f8b18c32211e98e440242ac110003.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201907041341588834-c0bc9724c32211e98b1a0242ac110003.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 2.88465,
+                "longitude": 73.57537
+            },
+            "desc": "The property has 112 rustic villas spread across the beach and over water. Villas on the lagoon are built on stilts.\n\nStay in rustic villas that overlook either the beach or the spectacular lagoon.\n\nDiscover the secrets of the ocean with a snorkelling or diving session. There is a PADI-certified diving centre on-site. A water sports centre helps you enjoy activities such as windsurfing, kayaking, stand-up paddling and canoeing.The property also has a marine centre with a Resident Marine Biologist. Enjoy excursions to nearby islands and go on cruises for dolphin watching, snorkelling, deep-sea fishing as well as night fishing. Enjoy quieter days in the resort playing beach volleyball, billiards or table tennis.Work out at the gym and to relax, head to the beachfront outdoor pool.",
+
+            "desc_spanish": "La propiedad cuenta con 112 villas rusticas repartidas por la playa y sobre el agua. Las villas en la laguna estan construidas sobre pilotes.\n\nAlojese en villas rusticas con vista a la playa oa la espectacular laguna.\n\nDescubra los secretos del oceano con una sesion de snorkel o buceo. Hay un centro de buceo certificado por PADI en el lugar. Un centro de deportes acuaticos lo ayuda a disfrutar de actividades como windsurf, kayak, surf de remo y piragüismo. La propiedad tambien cuenta con un centro marino con un biologo marino residente. Disfrute de excursiones a las islas cercanas y realice cruceros para observar delfines, hacer snorkel, pescar en alta mar y pescar de noche. Disfrute de dias mas tranquilos en el complejo jugando al voley-playa, al billar o al ping-pong.Haga ejercicio en el gimnasio y, para relajarse, dirijase a la piscina al aire libre frente a la playa."
+        },
+        {
+            "id": "202207041434205854",
+            "name": "NOVA Maldives",
+            "propertyType": "Resort",
+            "starRating": 5,
+            "categories": [
+
+            ],
+            "cat_spanish": [],
+            "media": [
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202207041434205854-4d532bfe17ac11ed88640a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/39edd2e6fac211ec9bca0a58a9feac02.png",
+                "https://r1imghtlak.mmtcdn.com/76a360befac911ecab120a58a9feac02.png",
+                "https://r1imghtlak.mmtcdn.com/75e5e868fac911ecbffa0a58a9feac02.png",
+                "https://r1imghtlak.mmtcdn.com/7792b6aafac911ec86a70a58a9feac02.png"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 3.57862,
+                "longitude": 72.9021
+            },
+            "desc": "Nova Maldives features a restaurant, bar, a shared lounge and garden in Dhangethi. This 5-star hotel offers a private beach area and room service. The hotel provides an outdoor swimming pool, fitness centre, evening entertainment and a 24-hour front desk. All guest rooms at the hotel are equipped with a seating area. Every room comes with air conditioning, and certain units at Nova Maldives have a patio. All units include bed linen. Guests at the accommodation can enjoy a continental breakfast. Nova Maldives offers a sun terrace. You can play billiards, table tennis, and darts at the hotel.",
+
+            "desc_spanish": "El Nova Maldives cuenta con restaurante, bar, salon comun y jardin en Dhangethi. Este hotel de 5 estrellas ofrece una zona de playa privada y servicio de habitaciones. El hotel ofrece una piscina al aire libre, un gimnasio, entretenimiento nocturno y una recepcion abierta las 24 horas. Todas las habitaciones del hotel estan equipadas con zona de estar. Todas las habitaciones cuentan con aire acondicionado y algunas unidades del Nova Maldives tienen patio. Todas las unidades incluyen ropa de cama. Los huespedes del alojamiento pueden disfrutar de un desayuno continental. El Nova Maldives ofrece un solarium. En el hotel se puede jugar al billar, al ping pong y a los dardos."
+        },
+        {
+            "id": "6608967321242358",
+            "name": "Kurumba Maldives",
+            "propertyType": "Resort",
+            "starRating": 5,
+            "categories": [
+                "SIMPLYWOW Deals",
+                "Best For Indians",
+                "Premium",
+                "Best Offers",
+                "Speed Boat",
+                "All Meals Maldives",
+                "Indian food at the property",
+                "Daily Dhamaka",
+                "Resorts Near Male Airport",
+                "MyBiz Assured",
+                "Beach Villa",
+                "All-Inclusive Meals and Drinks",
+                "Travel Assist",
+                "MMT Exclusive",
+                "Kid Friendly",
+                "Super Premium",
+                "Package OfferAmazing Deals"
+            ],
+            "cat_spanish": [
+                "Ofertas SIMPLYWOW",
+                "Lo mejor para los indios",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Lancha rapida",
+                "Todas las comidas Maldivas",
+                "Comida india en la propiedad",
+                "Diario Dhamaka",
+                "Resorts cerca del aeropuerto de Male",
+                "MyBiz asegurado",
+                "Villa de Playa",
+                "Comidas y Bebidas Todo Incluido",
+                "Asistente de viaje",
+                "Exclusivo MMT",
+                "Amigable para ninos",
+                "Super Premium",
+                "Oferta de paqueteOfertas increibles"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/a6c87a567fa411ea93330242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/b0d0bda67fa411eaba060242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/6e6d448e7fa411ea955b0242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/8010ba9a40d411eabfe00242ac110004.jpg",
+                "https://r1imghtlak.mmtcdn.com/8018990440d411ea967a0242ac110006.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.22519,
+                "longitude": 73.52007
+            },
+            "desc": "The Kurumba Maldives was opened in 1972 and was the first private island resort in the Maldives. It was last renovated in 2004 and has 180 rooms, bungalows, villas, and residences.\n\nThe Kurumba Maldives has won multiple awards over the years. Most recently, it was named the winner of Luxury Family Hotel at World Luxury Awards 2020.It was named Indian Ocean’s Leading Family Resort at World Travel Awards 2020. The Kurumba Maldives was also ranked in the Top 10 Romantic Resorts Maldives at Luxury Lifestyle Awards 2020.Its spa, Veli Spa was awarded for Best Unique Experience Spa at World Luxury Awards 2020. Thila, one of the on-site restaurants, also ranked in the Top 12 Restaurant Maldives at Luxury Lifestyle Awards 2020.",
+
+            "desc_spanish": "El Kurumba Maldives se inauguro en 1972 y fue el primer resort isleno privado en las Maldivas. Fue renovado por ultima vez en 2004 y cuenta con 180 habitaciones, bungalows, villas y residencias.\n\nEl Kurumba Maldives ha ganado multiples premios a lo largo de los anos. Mas recientemente, fue nombrado ganador de Luxury Family Hotel en World Luxury Awards 2020. Fue nombrado Resort familiar lider en el Oceano indico en World Travel Awards 2020. Kurumba Maldives tambien fue clasificado entre los 10 mejores resorts romanticos de Maldivas en Luxury Lifestyle Awards 2020 Su spa, Veli Spa, fue galardonado como Mejor experiencia unica de spa en los World Luxury Awards 2020. Thila, uno de los restaurantes del hotel, tambien se clasifico entre los 12 mejores restaurantes de Maldivas en los Luxury Lifestyle Awards 2020."
+        },
+        {
+            "id": "201703100402163513",
+            "name": "Season Paradise Hotel Maldives",
+            "propertyType": "Hotel",
+            "starRating": 4,
+            "categories": [
+                "MyBiz Assured",
+                "Economical Transfer Cost Maldives",
+                "Best For Indians",
+                "Travel Assist",
+                "Amazing Deals",
+                "Premium",
+                "Best Offers",
+                "Guesthouses Near Male Airport",
+                "Speed Boat",
+                "Indian food at the property",
+                "Daily Dhamaka"
+            ],
+            "cat_spanish": [
+                "MyBiz asegurado",
+                "Costo de Transferencia Economica Maldivas",
+                "Lo mejor para los indios",
+                "Asistente de viaje",
+                "Ofertas increibles",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Casas de huespedes cerca del aeropuerto de Male",
+                "Lancha rapida",
+                "Comida india en la propiedad",
+                "Dhamaka diario"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/aadd2d44638e11ea988a0242ac110005.jpg",
+                "https://r1imghtlak.mmtcdn.com/c7a1380a1e5911ea86c20242ac11000d.jpg",
+                "https://r1imghtlak.mmtcdn.com/bc166a961e5911ea9e200242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/c3751ca61e5911ea9b4d0242ac110004.jpg",
+                "https://r1imghtlak.mmtcdn.com/bbf4a5aa1e5911eab8e50242ac110004.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.37556,
+                "longitude": 73.65338
+            },
+            "desc": "Opened in 2016, Season Paradise Maldives boasts 48 luxurious rooms. English, Tamil and Hindi-speaking staff are available for assistance.\n\nSeason Paradise Maldives has won several awards. It was named New Luxury Hotel of the Year 2017 for the Asia & Australasia region at the Luxury Travel Guide Awards.It is a Travel Hospitality Award Winner and the 2018 winner at Haute Grandeur Global Hotel Awards.\n\nSea-view rooms are available at Season Paradise Maldives.",
+
+            "desc_spanish": "Inaugurado en 2016, Season Paradise Maldives cuenta con 48 lujosas habitaciones. El personal que habla ingles, tamil e hindi esta disponible para brindar asistencia.\n\nSeason Paradise Maldives ha ganado varios premios. Fue nombrado Nuevo hotel de lujo del ano 2017 para la region de Asia y Australasia en los premios Luxury Travel Guide. Es ganador del premio Travel Hospitality Award y ganador de 2018 en los premios Haute Grandeur Global Hotel Awards.\n\nHabitaciones con vistas al mar disponibles en Season Paradise Maldivas."
+        },
+        {
+            "id": "201906121510146322",
+            "name": "Dhigali Maldives - A Premium All-Inclusive Resort",
+            "propertyType": "Resort",
+            "starRating": 5,
+            "categories": [
+                "Maldives New",
+                "Package Offer",
+                "Domestic Flight",
+                "Luxury Seekers",
+                "luxury_hotels",
+                "Daily Dhamaka",
+                "Water Villa",
+                "Beach Villa",
+                "Sea Plane",
+                "Romantic Stays",
+                "Luxury Properties on Private Islands",
+                "Kid Friendly",
+                "Super Premium",
+                "package_hotels"
+            ],
+            "cat_spanish": [
+                "Maldivas Nuevo",
+                "Oferta de paquete",
+                "Vuelo domestico",
+                "Buscadores de lujo",
+                "hoteles de lujo",
+                "Diario Dhamaka",
+                "Villa del Agua",
+                "Villa de Playa",
+                "avion de mar",
+                "Estancias Romanticas",
+                "Propiedades de Lujo en Islas Privadas",
+                "Amigable para ninos",
+                "Super Premium",
+                "paquete_hoteles"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/d5e68616444311ebb14f0242ac110002.jfif",
+                "https://r1imghtlak.mmtcdn.com/81960b54444311ebb14f0242ac110002.jfif",
+                "https://r1imghtlak.mmtcdn.com/a00bc3a640d611ea800a0242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/a00fe0da40d611eab7430242ac11000d.jpg",
+                "https://r1imghtlak.mmtcdn.com/a0163f2040d611ea9eba0242ac110002.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 5.4759,
+                "longitude": 72.95408
+            },
+            "desc": "The resort offers guests a choice of 180 bungalows, villas and suites set amidst the lush tropical greenery, on the white sandy beach or over water on the lagoon.\n\nThe property's villas and suites overlook the tropical gardens, beach or ocean.\n\nSpend your days enjoying a variety of water sports in the lagoon surrounding the resort island. Snorkel and dive in the lagoon, or set out to explore the reefs further afar.The on-site PADI diving centre offers several courses for beginners as well experienced divers. Night snorkelling and dives can be arranged on request.Other water sports that can be enjoyed here include jet skiing, stand-up paddleboarding, windsurfing and kayaking. Set out on sandbank adventures and sunset cruises on catamaran, kayaks or stand-up paddleboards.",
+
+            "desc_spanish": "El complejo ofrece a los huespedes una seleccion de 180 bungalows, villas y suites ubicados en medio de la exuberante vegetacion tropical, en la playa de arena blanca o sobre el agua en la laguna.\n\nLas villas y suites de la propiedad tienen vista a los jardines tropicales, la playa o el oceano.\n\nPase sus dias disfrutando de una variedad de deportes acuaticos en la laguna que rodea la isla turistica. Practique esnorquel y bucee en la laguna, o salga a explorar los arrecifes mas lejanos. El centro de buceo PADI en el lugar ofrece varios cursos para principiantes y buzos experimentados. Se pueden organizar inmersiones y snorkel nocturno bajo peticion. Otros deportes acuaticos que se pueden disfrutar aqui incluyen moto acuatica, surf de remo, windsurf y kayak. Embarcate en aventuras en bancos de arena y cruceros al atardecer en catamaran, kayaks o tablas de surf de remo."
+        },
+        {
+            "id": "201711031525413061",
+            "name": "The White Harp Inn",
+            "propertyType": "Guest House",
+            "starRating": 3,
+            "categories": [
+                "Beachfront",
+                "Economical Transfer Cost Maldives",
+                "Couple Friendly",
+                "Amazing Deals",
+                "Best Offers",
+                "Guesthouses Near Male Airport",
+                "Speed Boat",
+                "Accessible by Road",
+                "Indian food at the property",
+                "Daily Dhamaka"
+            ],
+            "cat_spanish": [
+                "Frente a la playa",
+                "Costo de Transferencia Economica Maldivas",
+                "Pareja amigable",
+                "Ofertas increibles",
+                "Mejores Ofertas",
+                "Casas de huespedes cerca del aeropuerto de Male",
+                "Lancha rapida",
+                "Accesible por carretera",
+                "Comida india en la propiedad",
+                "Dhamaka diario"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/dd3091ecbec111e78ce902755708f0b3.jpg",
+                "https://r1imghtlak.mmtcdn.com/eb00573085d111e88bed02755708f0b3.jpg",
+                "https://r1imghtlak.mmtcdn.com/e918989c85d111e8abdf0ad03efb9e28.jpg",
+                "https://r1imghtlak.mmtcdn.com/3750fd52bd6711e890060a9df65c8753.jpg",
+                "https://r1imghtlak.mmtcdn.com/e85d398a85d111e8912a02755708f0b3.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.20736,
+                "longitude": 73.54271
+            },
+            "desc": "The hotel offers free airport transfers, and can arrange for water sports as well as excursions. Sign up for city tours, and explore the island on rental bicycles.Other facilities include 24-hour front desk, and tour desk. Laundry and daily housekeeping services are available too.\n\nFor dining, there is one on-site restaurant. Dine on the rooftop while marvelling at ocean views.\n\nBesides airport transfers, the property offers bicycle rentals.",
+            "desc_spanish": "El hotel ofrece traslados gratuitos al aeropuerto y puede organizar deportes acuaticos y excursiones. Registrese para visitas guiadas por la ciudad y explore la isla en bicicletas de alquiler.Otras instalaciones incluyen recepcion 24 horas y mostrador de informacion turistica. Los servicios de lavanderia y limpieza diaria tambien estan disponibles.\n\nPara cenar, hay un restaurante en el lugar. Cene en la azotea mientras se maravilla con la vista al mar.\n\nAdemas de los traslados al aeropuerto, la propiedad ofrece alquiler de bicicletas."
+        },
+        {
+            "id": "202006232206047765",
+            "name": "Salt Beach Hotel",
+            "propertyType": "Guest House",
+            "starRating": 3,
+            "categories": [
+                "Guesthouses Near Male Airport",
+                "Domestic Flight"
+            ],
+            "cat_spanish": [
+                "Casas de huespedes cerca del aeropuerto de Male",
+                "Vuelo domestico"
+            ],
+            "media": [
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/202006232206047765-31febca2_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/202006232206047765-7cd6f7ea_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/202006232206047765-67f58de6_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/202006232206047765-f921429a_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/202006232206047765-da1e4e4c_z.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 3.94406,
+                "longitude": 73.49046
+            },
+            "desc": "The Salt Beach Hotel offers a choice of 15 comfortable rooms.\n\nOcean-view rooms are available.\n\nSpend your days enjoying the beach and water sports. Back at the Salt Beach Hotel. relax on the rooftop terrace and enjoy the ocean views.Stay connected with loved ones at the free Wi-Fi. Besides a 24-hour front desk, the property also offers concierge, babysitting and laundry services.\n\nFor dining, there is an on-site restaurant and a coffee shop. Guests can enjoy 24-hour room service and barbecues.",
+            "desc_spanish": "El Salt Beach Hotel ofrece una seleccion de 15 comodas habitaciones.\n\nHay habitaciones con vista al mar disponibles.\n\nPase sus dias disfrutando de la playa y los deportes acuaticos. De vuelta en el Hotel Salt Beach. relajese en la terraza de la azotea y disfrute de las vistas al mar. Mantengase conectado con sus seres queridos gracias al Wi-Fi gratuito. Ademas de una recepcion abierta las 24 horas, la propiedad tambien ofrece servicios de conserjeria, cuidado de ninos y lavanderia.\n\nPara cenar, hay un restaurante en el lugar y una cafeteria. Los huespedes pueden disfrutar del servicio de habitaciones las 24 horas y de barbacoas."
+        },
+        {
+            "id": "201906121510148635",
+            "name": "Noomoo",
+            "propertyType": "Guest House",
+            "starRating": 4,
+            "categories": [
+                "SIMPLYWOW Deals",
+                "Economical Transfer Cost Maldives",
+                "Amazing Deals",
+                "Long Stays",
+                "Best Offers",
+                "Accessible by Road",
+                "Indian food at the property",
+                "Resorts Near Male Airport"
+            ],
+            "cat_spanish": [
+                "Ofertas SIMPLYWOW",
+                "Costo de Transferencia Economica Maldivas",
+                "Ofertas increibles",
+                "Estancias Largas",
+                "Mejores Ofertas",
+                "Accesible por carretera",
+                "Comida india en la propiedad",
+                "Resorts cerca del aeropuerto de Male"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/21a1cb5645ec11ec90110a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/027cf78a460711ec817a0a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/286057e645ec11ecafbe0a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/2168c02245ec11ecbf070a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/85ee125e6c0e11eab6780242ac110013.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.21891,
+                "longitude": 73.54548
+            },
+            "desc": "The hotel has a private beach, where you can relax and enjoy the ocean views. It can help arrange for water sports such as snorkelling and scuba diving.Enjoy canoeing and windsurfing. Explore the island on rental bicycles. Kids can have fun at the playground. For corporate travellers, there is a business centre on-site.Additional facilities offered by the hotel include a 24-hour front desk, a mini-market and ATM. Currency exchange, concierge, babysitting, daily housekeeping and laundry services are available.\n\nFor dining, there is a restaurant on-site. 24-hour room service, barbecues and kid-friendly buffets are available.",
+
+            "desc_spanish": "El hotel tiene una playa privada, donde podra relajarse y disfrutar de las vistas al mar. Puede ayudar a organizar deportes acuaticos como snorkel y submarinismo. Disfrute del piragüismo y el windsurf. Explore la isla en bicicletas de alquiler. Los ninos pueden divertirse en el parque infantil. Para los viajeros de negocios, hay un centro de negocios en el lugar. Las instalaciones adicionales que ofrece el hotel incluyen una recepcion abierta las 24 horas, un mini-mercado y cajero automatico. Los servicios de cambio de divisas, conserjeria, ninera, limpieza diaria y lavanderia estan disponibles.\n\nPara cenar, hay un restaurante en el lugar. Hay disponible servicio de habitaciones las 24 horas, barbacoas y bufes aptos para ninos."
+        },
+        {
+            "id": "201912241800224955",
+            "name": "Crown Beach Hotel Maldives",
+            "propertyType": "Hotel",
+            "starRating": 4,
+            "categories": [
+                "Speed Boat"
+            ],
+            "cat_spanish": [
+                "Lancha rapida"
+            ],
+            "media": [
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201912241800224955-ff191204_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201912241800224955-0ad8e7a4_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201912241800224955-89b98bb5_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201912241800224955-c35b9cb7_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201912241800224955-cb906728_z.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.44533,
+                "longitude": 73.71368
+            },
+            "desc": "The property offers a choice of 18 air-conditioned rooms across 2 floors.\n\nThe rooms here overlook the beach, sea or the city inland.\n\nStep out of the hotel building and choose your spot on the beach for a bit of lounging and sunbathing.Head into the ocean for snorkelling and scuba diving. Snorkel with sharks and turtles, and sign up for expeditions that let you snorkel at different reefs or at night.Dive to the depths for a closer look at the colourful corals and marine life.",
+            "desc_spanish": "La propiedad ofrece una seleccion de 18 habitaciones con aire acondicionado distribuidas en 2 plantas.\n\nLas habitaciones tienen vistas a la playa, al mar o al interior de la ciudad.\n\nSalga del edificio del hotel y elija su lugar en la playa por un rato. de descansar y tomar el sol. Dirijase al oceano para practicar esnorquel y buceo. Practique snorkel con tiburones y tortugas, e inscribase en expediciones que le permitan practicar snorkel en diferentes arrecifes o de noche. Sumerjase en las profundidades para observar de cerca los coloridos corales y la vida marina."
+
+        },
+        {
+            "id": "201903141746405397",
+            "name": "Hotel Octave Maldives",
+            "propertyType": "Guest House",
+            "starRating": 3,
+            "categories": [
+                "Economical Transfer Cost Maldives",
+                "Amazing Deals",
+                "Guesthouses Near Male Airport",
+                "valuedeals",
+                "Accessible by Road",
+                "Indian food at the property"
+            ],
+            "cat_spanish": [
+                "Costo de Transferencia Economica Maldivas",
+                "Ofertas increibles",
+                "Casas de huespedes cerca del aeropuerto de Male",
+                "ofertas de valor",
+                "Accesible por carretera",
+                "Comida india en la propiedad"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/2f4c8f3456c511e9938b0242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/32d5461456c511e9904c0242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/33045cd856c511e9a46c0242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/3595e47656c511e98b5a0242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/6cd0482eee5411e981d70242ac110005.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.17468,
+                "longitude": 73.50768
+            },
+            "desc": "The property offers a choice of 14 elegant rooms.\n\nEnjoy free transfers from Male airport and Male City. Airport Meet and Greet service is available. Plan your sightseeing and adventures around Maldives with the help of the on-site tour desk.Hotel Octave Maldives has a PADI dive instructor who can guide you around the many diving sites across Maldives.",
+
+            "desc_spanish": "La propiedad ofrece una seleccion de 14 elegantes habitaciones.\n\nDisfrute de traslados gratuitos desde el aeropuerto de Male y la ciudad de Male. El servicio de encuentro y bienvenida en el aeropuerto esta disponible. Planifique sus visitas turisticas y sus aventuras por las Maldivas con la ayuda del mostrador de informacion turistica del hotel. El Hotel Octave Maldives tiene un instructor de buceo PADI que puede guiarlo por los numerosos sitios de buceo de las Maldivas."
+        },
+        {
+            "id": "202001171548308579",
+            "name": "Hard Rock Hotel Maldives",
+            "propertyType": "Resort",
+            "starRating": 5,
+            "categories": [
+                "SIMPLYWOW Deals",
+                "Package Offer",
+                "Speed Boat",
+                "All Meals Maldives",
+                "luxury_hotels",
+                "Daily Dhamaka",
+                "Resorts Near Male Airport",
+                "Curated Staycations",
+                "Water Villa",
+                "Beachfront",
+                "Beach Villa",
+                "Romantic Stays",
+                "All-Inclusive Meals and Drinks",
+                "MMT Exclusive",
+                "Kid Friendly",
+                "Super Premium"
+            ],
+            "cat_spanish": [
+                "Ofertas SIMPLYWOW",
+                "Oferta de paquete",
+                "Lancha rapida",
+                "Todas las comidas Maldivas",
+                "hoteles de lujo",
+                "Diario Dhamaka",
+                "Resorts cerca del aeropuerto de Male",
+                "Estadias seleccionadas",
+                "Villa del Agua",
+                "Frente a la playa",
+                "Villa de Playa",
+                "Estancias Romanticas",
+                "Comidas y Bebidas Todo Incluido",
+                "Exclusivo MMT",
+                "Amigable para ninos",
+                "Super Premium"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/53422c8e0e8c11eba6520242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/bc2c065a517411eab6910242ac110002.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202001171548308579-9998bb8e06ef11ebbc250242ac110002.jpg",
+                "https://r1imghtlak.mmtcdn.com/8403b0ea4fd311eab5ad0242ac110002.jfif",
+                "https://r1imghtlak.mmtcdn.com/8611e8c04fd311eaa1df0242ac110003.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.12386,
+                "longitude": 73.4728
+            },
+            "desc": "Opened in 2019, Hard Rock Hotel Maldives offers guests a choice of luxurious studios, suites and villas.\n\nOcean-view accommodations are available.\n\nThis iconic Hard Rock Hotel Maldives has underwater speakers in its pool and a water slide for a rocking experience.Enjoy aqua gym classes, water volleyball and many other games in the pool as per the schedule. Have fun at the beach, lounging on sun loungers and playing games such as beach volleyball, beach soccer and Slackline.Learn the art of staying fit with yoga, meditation, breathing exercises and zen. Brazilian Jiu-Jitsu sessions on a red mat can be enjoyed too.A 24-hour oceanfront fitness centre inspires you to work out. For relaxation, Rock Spa offers signature therapies with music in 4 oceanfront treatment rooms.",
+
+            "desc_spanish": "Inaugurado en 2019, Hard Rock Hotel Maldives ofrece a los huespedes una seleccion de lujosos estudios, suites y villas.\n\nHay habitaciones con vista al mar disponibles.\n\nEste iconico Hard Rock Hotel Maldives tiene parlantes subacuaticos en su piscina y un tobogan de agua para una experiencia rockera. Disfruta de clases de gimnasia acuatica, voleibol acuatico y muchos otros juegos en la piscina segun el horario. Diviertete en la playa, descansando en las tumbonas y jugando juegos como voleibol de playa, futbol de playa y Slackline. Aprende el arte de mantenerte en forma con yoga, meditacion, ejercicios de respiracion y zen. Tambien se pueden disfrutar sesiones de Jiu-Jitsu brasileno en una alfombra roja. Un gimnasio frente al mar abierto las 24 horas lo inspira a hacer ejercicio. Para relajarse, Rock Spa ofrece terapias exclusivas con musica en 4 salas de tratamiento frente al mar."
+
+        },
+        {
+            "id": "201701240402284110",
+            "name": "Aquzz Inn",
+            "propertyType": "Hotel",
+            "starRating": 3,
+            "categories": [
+                "SIMPLYWOW Deals",
+                "Best For Indians",
+                "Amazing Deals",
+                "Premium",
+                "Best Offers",
+                "Guesthouses Near Male Airport",
+                "Speed Boat",
+                "Indian food at the property",
+                "MyBiz Assured",
+                "Economical Transfer Cost Maldives",
+                "Couple Friendly",
+                "Travel Assist",
+                "MMT Exclusive"
+            ],
+            "cat_spanish": [
+                "Ofertas SIMPLYWOW",
+                "Lo mejor para los indios",
+                "Ofertas increibles",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Casas de huespedes cerca del aeropuerto de Male",
+                "Lancha rapida",
+                "Comida india en la propiedad",
+                "MyBiz asegurado",
+                "Costo de Transferencia Economica Maldivas",
+                "Pareja amigable",
+                "Asistente de viaje",
+                "Exclusivo MMT"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/ad14389a008111edbe5b0a58a9feac02.jfif",
+                "https://r1imghtlak.mmtcdn.com/0ac7064cf49411ec9f8c0a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/4df1b8ccf70f11ecb1690a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/09cbbf6cf49411ecb6730a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/203cc8eaf49e11ec9f9a0a58a9feac02.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 3.93935,
+                "longitude": 73.48862
+            },
+            "desc": "Opened in 2014, the property has just 20 rooms. Hindi-speaking staff are available for assistance.\n\nRelax by the hotel's poolside or sign up for a massage at the spa. Play billiards, table tennis or mini-soccer.The hotel also offers daily housekeeping, laundry, currency exchange and concierge services. There is a convenience store, library and smoking area at the premises.",
+
+            "desc_spanish": "Inaugurado en 2014, la propiedad tiene solo 20 habitaciones. El personal que habla hindi esta disponible para brindarle asistencia.\n\nRelajese junto a la piscina del hotel o registrese para recibir un masaje en el spa. Juegue al billar, al ping-pong o al minifutbol.El hotel tambien ofrece servicios diarios de limpieza, lavanderia, cambio de divisas y conserjeria. Hay una tienda de conveniencia, biblioteca y area para fumadores en las instalaciones."
+        },
+        {
+            "id": "6608967321242246",
+            "name": "Centara Grand Island Resort & Spa Maldives",
+            "propertyType": "Resort",
+            "starRating": 5,
+            "categories": [
+                "SIMPLYWOW Deals",
+                "Best For IndiansAmazing Deals",
+                "Premium",
+                "Best Offers",
+                "All Meals Maldives",
+                "luxury_hotels",
+                "Indian food at the property",
+                "Daily Dhamaka",
+                "MyBiz Assured",
+                "Water Villa",
+                "Beach Villa",
+                "Sea Plane",
+                "All-Inclusive Meals and Drinks",
+                "Travel Assist",
+                "MMT Exclusive",
+                "Luxury Properties on Private Islands",
+                "Super Premium"
+            ],
+            "cat_spanish": [
+                "Ofertas SIMPLYWOW",
+                "Lo mejor para los indiosOfertas increibles",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Todas las comidas Maldivas",
+                "hoteles de lujo",
+                "Comida india en la propiedad",
+                "Diario Dhamaka",
+                "MyBiz asegurado",
+                "Villa del Agua",
+                "Villa de Playa",
+                "avion de mar",
+                "Comidas y Bebidas Todo Incluido",
+                "Asistente de viaje",
+                "Exclusivo MMT",
+                "Propiedades de Lujo en Islas Privadas",
+                "Super Premium"
+            ],
+            "media": [
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/6608967321242246-5395b882d27011ecb8930a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/562134aed28011ec90df0a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/55ec91ccd28011ecbbc00a58a9feac02.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/6608967321242246-114241a_hb_f_002.jpg",
+                "https://r1imghtlak.mmtcdn.com/55d7d4a8d28011ec887d0a58a9feac02.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 3.59463,
+                "longitude": 72.88396
+            },
+            "desc": "The Centara Grand Island Resort & Spa Maldives offers a choice of 112 villas set on the beach or over water on the lagoon.\n\nAll villas boast stunning ocean views.\n\nSnorkel to your heart's content in the house reef, and have fun exploring a shipwreck just off the house reef.Centara Grand Island Resort & Spa Maldives has a PADI dive centre on-site to assist you in all dives. Besides these, a wide range of motorized and non-motorized water sports can be enjoyed.Back at Centara Grand Island Resort & Spa Maldives, enjoy a swim in any of its 3 pools (one is a beachfront infinity pool) .Enjoy indulgent massages at the spa of Centara Grand Island Resort & Spa Maldives.",
+            "desc_spanish": "El Centara Grand Island Resort & Spa Maldives ofrece una seleccion de 112 villas ubicadas en la playa o sobre el agua en la laguna.\n\nTodas las villas cuentan con impresionantes vistas al oceano.\n\nHaga snorkel a su gusto en el arrecife de la casa y tenga diversion explorando un naufragio junto al arrecife de la casa. Centara Grand Island Resort & Spa Maldives tiene un centro de buceo PADI en el lugar para ayudarlo en todas las inmersiones. Ademas de estos, se puede disfrutar de una amplia gama de deportes acuaticos motorizados y no motorizados. De vuelta en Centara Grand Island Resort & Spa Maldives, disfrute de un bano en cualquiera de sus 3 piscinas (una es una piscina infinita frente a la playa). Disfrute de masajes indulgentes en el spa de Centara Grand Island Resort & Spa Maldives."
+        },
+        {
+            "id": "202101181425152361",
+            "name": "Kuramathi Island Resort",
+            "propertyType": "Resort",
+            "starRating": 4,
+            "categories": [
+                "Beach Villa",
+                "Package Offers",
+                "Super Premium"
+            ],
+            "cat_spanish": [
+                "Villa de Playa",
+                "Ofertas de paquetes",
+                "Super Premium"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/4305407403bc11e78d040a9df65c8753.jpg",
+                "https://r1imghtlak.mmtcdn.com/18d0303403bc11e7b2550a209fbd0127.jpg",
+                "https://r1imghtlak.mmtcdn.com/2c2bb41e03bc11e792ba0a209fbd0127.jpg",
+                "https://r1imghtlak.mmtcdn.com/32cb4e4c03bc11e784e30a9df65c8753.jpg",
+                "https://r1imghtlak.mmtcdn.com/39de3c8003bc11e7a7090a9df65c8753.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.25988,
+                "longitude": 72.98527
+            },
+            "desc": "Experience the best of the Maldives with water sports. The Kuramathi Maldives has a fantastic water sports centre and guests can enjoy windsurfing, catamaran sailing, dinghy/traditional boat rides, kayaking, stand-up paddleboarding, fun tube rides, water skiing, wakeboarding, parasailing, and speedboat rides.For those who are keen to explore the underwaters, the property offers snorkelling lessons, guided snorkelling tours and safaris, and snorkelling with turtles experiences.Diving courses and facilities, as well as a medical centre with a hyperbaric chamber, are available. Kuramathi Maldives also offers Semi-submarine rides, sunset cruises, fishing trips, and snorkelling + BBQs on deserted islands.Within Kuramathi Maldives resort, guests can play on the flood-lit tennis courts, work out at the gym, soak in the Jacuzzi, and enjoy leisurely swims in any of the 3 outdoor pools.",
+
+            "desc_spanish": "Experimente lo mejor de las Maldivas con los deportes acuaticos. El Kuramathi Maldives tiene un fantastico centro de deportes acuaticos y los huespedes pueden disfrutar de windsurf, navegacion en catamaran, paseos en bote/bote tradicional, kayak, surf de remo, divertidos paseos en tubo, esqui acuatico, wakeboard, paravelismo y paseos en lancha rapida. Con ganas de explorar las profundidades submarinas, la propiedad ofrece clases de snorkel, tours guiados de snorkel y safaris, y experiencias de snorkel con tortugas. Se ofrecen cursos e instalaciones de buceo, asi como un centro medico con una camara hiperbarica. Kuramathi Maldives tambien ofrece paseos en semisubmarinos, cruceros al atardecer, viajes de pesca y snorkel + barbacoas en islas desiertas. Dentro del complejo Kuramathi Maldives, los huespedes pueden jugar en las canchas de tenis iluminadas, hacer ejercicio en el gimnasio, sumergirse en el jacuzzi, y disfrute nadando tranquilamente en cualquiera de las 3 piscinas al aire libre."
+
+        },
+        {
+            "id": "201603100827309958",
+            "name": "Kaani Village & Spa",
+            "propertyType": "Hotel",
+            "starRating": 3,
+            "categories": [
+                "MyBiz Assured",
+                "Economical Transfer Cost Maldives",
+                "Best For Indians",
+                "Travel Assist",
+                "Amazing Deals",
+                "Premium",
+                "Best Offers",
+                "Guesthouses Near Male Airport",
+                "Speed Boat",
+                "Indian food at the property",
+                "Daily Dhamaka"
+            ],
+            "cat_spanish": [
+                "MyBiz asegurado",
+                "Costo de Transferencia Economica Maldivas",
+                "Lo mejor para los indios",
+                "Asistente de viaje",
+                "Ofertas increibles",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Casas de huespedes cerca del aeropuerto de Male",
+                "Lancha rapida",
+                "Comida india en la propiedad",
+                "Dhamaka diario"
+            ],
+            "media": [
+
+                "https://r1imghtlak.mmtcdn.com/2db1a55883a211e785a60a4cef95d023.jpg",
+                "https://r1imghtlak.mmtcdn.com/2fb418fe83a211e79a9b025f77df004f.jpg",
+                "https://r1imghtlak.mmtcdn.com/2cd5134083a211e784880a4cef95d023.jpg",
+                "https://r1imghtlak.mmtcdn.com/2ee467d083a211e79a9b025f77df004f.jpg",
+                "https://r1imghtlak.mmtcdn.com/2fdfc51c83a211e785a60a4cef95d023.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 3.94357,
+                "longitude": 73.4904
+            },
+            "desc": "Opened in 2014, this property has 20 rooms across 2 floors. English and Hindi-speaking staff are available for assistance.\n\nEnjoy great ocean views from the on-site restaurant.\n\nExplore the island on motorbike rentals (no charge) . Enjoy a variety of water-sport including diving, snorkelling and scuba-diving (arranged on request) .Relax at the on-site sauna and outdoor pool. Traditional massages can be enjoyed at the spa. Other facilities include a 24-hour reception, garden and a separate smoking area.Airport shuttle, daily housekeeping, laundry. concierge and currency exchange services can be availed as well.",
+
+            "desc_spanish": "Inaugurado en 2014, este establecimiento cuenta con 20 habitaciones distribuidas en 2 plantas. El personal que habla ingles e hindi esta disponible para brindar asistencia.\n\nDisfrute de excelentes vistas al oceano desde el restaurante del hotel.\n\nExplore la isla con el alquiler de motocicletas (sin cargo). Disfrute de una variedad de deportes acuaticos, como buceo, esnorquel y submarinismo (previa solicitud). Relajese en la sauna y la piscina al aire libre del hotel. En el spa se pueden disfrutar masajes tradicionales. Otras instalaciones incluyen una recepcion abierta las 24 horas, un jardin y una zona de fumadores separada. Transporte al aeropuerto, servicio de limpieza diario, lavanderia. Tambien se pueden utilizar los servicios de conserjeria y cambio de divisas."
+        },
+        {
+            "id": "201906121510147113",
+            "name": "Finimas Residence",
+            "propertyType": "Bed N Breakfast",
+            "starRating": 3,
+            "categories": [
+                "Maldives New"
+            ],
+            "cat_spanish": [
+                "Maldivas nuevo"
+            ],
+            "media": [
+
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201906121510147113-d54ed952_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201906121510147113-65f8040f_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201906121510147113-b0451d92_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201906121510147113-91905002_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201906121510147113-3303b625_z.jpg"
+            ],
+
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 2.20535,
+                "longitude": 73.1418
+            },
+            "desc": "Enjoy recreation amenities such as a fitness center or take in the view from a rooftop terrace. Additional amenities at this bed & breakfast include complimentary wireless Internet access, concierge services, and babysitting (surcharge). Getting to nearby attractions is a breeze with the area shuttle (surcharge).Enjoy a meal at the restaurant or snacks in the coffee shop/cafe. The bed & breakfast also offers 24-hour room service.Featured amenities include complimentary newspapers in the lobby, dry cleaning/laundry services, and a 24-hour front desk. A roundtrip airport shuttle is complimentary (available 24 hours).Stay in one of 6 guestrooms featuring flat-screen televisions.",
+
+            "desc_spanish": "Disfrute de servicios recreativos como un gimnasio o disfrute de la vista desde una terraza en la azotea. Entre los servicios adicionales de este bed and breakfast se incluyen acceso inalambrico a Internet de cortesia, servicios de conserjeria y servicio de ninera (de pago). Llegar a las atracciones cercanas es muy facil con el servicio de transporte por la zona (de pago). Disfrute de una comida en el restaurante o de un refrigerio en la cafeteria. Este bed and breakfast tambien ofrece servicio a la habitacion las 24 horas.Tendras periodicos gratuitos en el lobby, servicio de tintoreria o lavanderia a tu disposicion y servicio de recepcion las 24 horas a tu disposicion. El servicio de transporte al aeropuerto (ida y vuelta) es gratuito (disponible las 24 horas). Alojate en una de las 6 habitaciones con televisor de pantalla plana."
+        },
+        {
+            "id": "201708231331033315",
+            "name": "Amari Havodda",
+            "propertyType": "Resort",
+            "starRating": 5,
+            "categories": [
+                "Water Villa",
+                "Beachfront",
+                "Beach Villa",
+                "Romantic Stays",
+                "Travel Assist",
+                "Luxury Properties on Private Islands",
+                "Kid Friendly",
+                "Domestic Flight",
+                "luxury_hotels",
+                "Super Premium",
+                "Daily Dhamaka"
+            ],
+            "cat_spanish": [
+                "Villa del Agua",
+                "Frente a la playa",
+                "Villa de Playa",
+                "Estancias Romanticas",
+                "Asistente de viaje",
+                "Propiedades de Lujo en Islas Privadas",
+                "Amigable para ninos",
+                "Vuelo domestico",
+                "hoteles de lujo",
+                "Super Premium",
+                "Dhamaka diario"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/8966a8e07ff111e6907902bf5ac07431.jpg",
+                "https://r1imghtlak.mmtcdn.com/89d9393c7ff111e682b50a9df65c8753.jpg",
+                "https://r1imghtlak.mmtcdn.com/dc7d639c0f7311eaa3ca0242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/f3989fae0f7011ea84920242ac110003.jpg",
+                "https://r1imghtlak.mmtcdn.com/ae8defea0f7011ea9d810242ac110004.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 0.54032,
+                "longitude": 73.09517
+            },
+            "desc": "Opened in 2015, the resort offers guests a choice of 120 luxurious villas set across the beach or over water on the lagoon.\n\nAll the villas here boast stunning ocean views.\n\nEmbark on diving and snorkelling expeditions. Have fun sailing and exploring the local islands, or trying to ride the waves on a surfboard (surfing) .The resort has dedicated centres for water sports and diving. Once back at the resort, enjoy a swim in the oceanfront pool or relax with indulgent spa therapies.The little ones can enjoy activities at the kids' club. Besides these, the resort offers a 24-hour front desk, contactless check-in/checkout, health clinic and a souvenir store.Guests can enjoy free Wi-Fi connectivity across the resort. Laundry, babysitting and multilingual concierge services are available too. English, Tamil and Hindi-speaking staff are available for assistance.",
+            "desc_spanish": "Inaugurado en 2015, el complejo ofrece a los huespedes una seleccion de 120 lujosas villas ubicadas frente a la playa o sobre el agua en la laguna.\n\nTodas las villas aqui cuentan con impresionantes vistas al oceano.\n\nEmbarquese en expediciones de buceo y esnorquel. Diviertete navegando y explorando las islas locales, o tratando de montar las olas en una tabla de surf (surf). El complejo cuenta con centros dedicados a los deportes acuaticos y al buceo. Una vez de regreso en el resort, disfrute de un bano en la piscina frente al mar o relajese con terapias de spa indulgentes. Los mas pequenos pueden disfrutar de actividades en el club infantil. Ademas de estos, el complejo ofrece una recepcion abierta las 24 horas, check-in/check-out sin contacto, clinica de salud y una tienda de souvenirs. Los huespedes pueden disfrutar de conexion Wi-Fi gratuita en todo el complejo. Tambien hay disponibles servicios de lavanderia, cuidado de ninos y conserjeria multilingüe. El personal que habla ingles, tamil e hindi esta disponible para brindar asistencia."
+        },
+        {
+            "id": "201906121510142587",
+            "name": "The St. Regis Maldives Vommuli Resort",
+            "propertyType": "Resort",
+            "starRating": 4,
+            "categories": [
+                "Maldives New",
+                "Water Villa",
+                "Beachfront",
+                "Beach Villa",
+                "Sea Plane",
+                "Romantic Stays",
+                "Luxury Properties on Private Islands",
+                "luxury_hotels"
+            ],
+            "cat_spanish": [
+                "Maldivas Nuevo",
+                "Villa del Agua",
+                "Frente a la playa",
+                "Villa de Playa",
+                "avion de mar",
+                "Estancias Romanticas",
+                "Propiedades de Lujo en Islas Privadas",
+                "hoteles de lujo"
+            ],
+            "media": [
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201906121510142587-23fd16d02e7b11edb2040a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/47f0475c031f11e79a950a209fbd0127.jpg",
+                "https://r1imghtlak.mmtcdn.com/4e3621e0031f11e7a61f0a9df65c8753.jpg",
+                "https://r1imghtlak.mmtcdn.com/558d76aa031f11e795300224510f5e5b.jpg",
+                "https://r1imghtlak.mmtcdn.com/5cdd272a031f11e78b2f0a9df65c8753.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 2.91081,
+                "longitude": 72.86553
+            },
+            "desc": "Opened in 2016, the property offers a choice of 77 villas set across the beach or over water.\n\nThe accommodations and dining outlets here overlook either the ocean or the tropical gardens.\n\nRelax at the resort's private lagoon, Iridium Spa with Ayurvedic suites, and outdoor infinity pool. Rejuvenate and stay fit at the Yoga & Meditation Studio and two 24-hour fitness centres.Spend time at the recreation centre Vommuli House that also has Children's Club. Try diving, snorkeling, glass-bottom kayak tours and more at the Vommuli Dive and Water Sports Centre.Enjoy excursions or overnight stay aboard a luxury yacht. Other facilities include tennis court, boating, jogging/fitness trail, bike rental, sauna and solarium.",
+            "desc_spanish": "Inaugurado en 2016, la propiedad ofrece una seleccion de 77 villas ubicadas frente a la playa o sobre el agua.\n\nLos alojamientos y los restaurantes tienen vista al oceano o a los jardines tropicales.\n\nRelajese en la laguna privada del resort, Iridium Spa con suites ayurvedicas y piscina infinita al aire libre. Rejuvenezca y mantengase en forma en el estudio de yoga y meditacion y en los dos gimnasios abiertos las 24 horas. Pase tiempo en el centro recreativo Vommuli House, que tambien cuenta con un club infantil. Pruebe el buceo, el esnorquel, las excursiones en kayak con fondo de cristal y mucho mas en el centro de deportes acuaticos y buceo Vommuli. Disfrute de excursiones o pase la noche a bordo de un yate de lujo. Otras instalaciones incluyen cancha de tenis, paseos en bote, pista de jogging/fitness, alquiler de bicicletas, sauna y solarium."
+        },
+        {
+            "id": "201808211833295585",
+            "name": "Mercure Maldives Kooddoo Resort",
+            "propertyType": "Resort",
+            "starRating": 4,
+            "categories": [
+                "Certified Hygienic Properties",
+                "Domestic Flight",
+                "Indian food at the property",
+                "MyBiz Assured",
+                "Water Villa",
+                "Beachfront",
+                "chain hotel",
+                "Beach Villa",
+                "Romantic Stays",
+                "All-Inclusive Meals and Drinks",
+                "Luxury Properties on Private Islands",
+                "Super Premium"
+            ],
+            "cat_spanish": [
+                "Propiedades higienicas certificadas",
+                "Vuelo domestico",
+                "Comida india en la propiedad",
+                "MyBiz asegurado",
+                "Villa del Agua",
+                "Frente a la playa",
+                "hotel de cadena",
+                "Villa de Playa",
+                "Estancias Romanticas",
+                "Comidas y Bebidas Todo Incluido",
+                "Propiedades de Lujo en Islas Privadas",
+                "Super Premium"
+            ],
+            "media": [
+
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201808211833295585-71626318_3XL.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201808211833295585-79467090_3XL.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201808211833295585-71626320_3XL.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201808211833295585-71626390_3XL.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/201808211833295585-68169063_4K.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 0.73119,
+                "longitude": 73.43233
+            },
+            "desc": "The resort offers a choice of 70 air-conditioned villas set across the beach and the lagoon.\n\nEnjoy stunning ocean views from the overwater villas, pool and restaurants.\n\nThe on-site spa has several indulgent therapies for adults and kids alike. Exclusive couples packages are available too. Challenge your partner to a fun-filled tennis match, or team up with fellow guests for beach volleyball.Play pool, darts and enjoy open-air movies, karaoke or cultural evenings. While the little ones have fun at the kids' club, enjoy a leisurely swim in the beachfront pool or the calm lagoon.Babysitting service is available. The property has a PADI-certified dive centre and a house reef teeming with marine life. Snorkel or deep dive to marvel at the oceanic treasures.Set out on a dolphin-spotting dhoni cruise or a sunset fishing trip (traditional bait and hand reels) . Kayaking, sailing and stand-up paddleboarding can be enjoyed too.",
+
+            "desc_spanish": "El complejo ofrece una seleccion de 70 villas con aire acondicionado ubicadas frente a la playa y la laguna.\n\nDisfrute de impresionantes vistas al oceano desde las villas sobre el agua, la piscina y los restaurantes.\n\nEl spa en el lugar ofrece varias terapias indulgentes para adultos y ninos por igual Paquetes exclusivos para parejas tambien estan disponibles. Desafia a tu pareja a un partido de tenis lleno de diversion o unete a otros huespedes para jugar voleibol de playa. Juega al billar, a los dardos y disfruta de peliculas al aire libre, karaoke o veladas culturales. Mientras los mas pequenos se divierten en el club infantil, disfruta de un bano tranquilo en la piscina frente a la playa o en la tranquila laguna. Servicio de ninera disponible. La propiedad cuenta con un centro de buceo certificado por PADI y un arrecife lleno de vida marina. Practique esnorquel o buceo profundo para maravillarse con los tesoros oceanicos. Realice un crucero en dhoni para avistar delfines o un viaje de pesca al atardecer (carretes tradicionales con carnada y mano). Tambien se puede disfrutar de kayak, vela y surf de remo."
+        },
+        {
+            "id": "6608967321242432",
+            "name": "Angsana Velavaru All Inclusive SELECT",
+            "propertyType": "Resort",
+            "starRating": 5,
+            "categories": [
+                "Best For Indians",
+                "Amazing Deals",
+                "Premium",
+                "Best Offers",
+                "All Meals Maldives",
+                "luxury_hotels",
+                "Indian food at the property",
+                "MyBiz Assured",
+                "Water Villa",
+                "Beach Villa",
+                "Sea Plane",
+                "All-Inclusive Meals and Drinks",
+                "Travel Assist",
+                "Luxury Properties on Private Islands",
+                "Super Premium",
+                "package_hotels"
+            ],
+            "cat_spanish": [
+                "Lo mejor para los indios",
+                "Ofertas increibles",
+                "De primera calidad",
+                "Mejores Ofertas",
+                "Todas las comidas Maldivas",
+                "hoteles de lujo",
+                "Comida india en la propiedad",
+                "MyBiz asegurado",
+                "Villa del Agua",
+                "Villa de Playa",
+                "avion de mar",
+                "Comidas y Bebidas Todo Incluido",
+                "Asistente de viaje",
+                "Propiedades de Lujo en Islas Privadas",
+                "Super Premium",
+                "paquete_hoteles"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/c6300c441e4011eabcba0242ac110002.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/6608967321242432-730b705077e911eab73b0242ac110002.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/6608967321242432-710234ba77e911eab6d10242ac110002.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/6608967321242432-7096b83477e911eaa76b0242ac110005.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/6608967321242432-6e9ebacc77e911ea80ce0242ac110002.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 2.98,
+                "longitude": 73.01578
+            },
+            "desc": "Opened in 2007, the resort offers a choice of 113 luxurious villas, set along the beach and out in the ocean.\n\nEach villa here offers stunning ocean views.\n\nLittle ones can have an amazing time here with Bubble Maker diving (classes available) . There are treasure hunts, sand castle building, wall climbing as well as several art and craft activities at Rangers Kids' Club.A kids' pool is available too. Families can bond over activities such as Waboba (frisbee in water) , water polo, and dolphin-watching safaris.The resort also offers fun tube/banana boat rides and marine conservation programs. Adults and older kids can opt for snorkelling and scuba diving sessions at PADI-certified 5-star Gold Dive Centre.Other water sports that can be enjoyed here include windsurfing, wakeboarding, catamaran sailing and stand-up paddle boarding. Glass-bottom canoes offer a unique experience.",
+            "desc_spanish": "Inaugurado en 2007, el complejo ofrece una seleccion de 113 lujosas villas, ubicadas a lo largo de la playa y en el oceano.\n\nCada villa aqui ofrece impresionantes vistas al oceano.\n\nLos mas pequenos pueden pasar un momento increible aqui con el buceo Bubble Maker (clases disponibles) . Hay busquedas del tesoro, construccion de castillos de arena, escalar paredes, asi como varias actividades artisticas y artesanales en el Rangers Kids 'Club. Tambien hay una piscina para ninos disponible. Las familias pueden unirse con actividades como Waboba (frisbee en el agua), waterpolo y safaris para observar delfines. El complejo tambien ofrece divertidos paseos en tubo/banana y programas de conservacion marina. Los adultos y los ninos mayores pueden optar por sesiones de snorkel y buceo en el Gold Dive Center de 5 estrellas certificado por PADI. Otros deportes acuaticos que se pueden disfrutar aqui incluyen windsurf, wakeboard, navegacion en catamaran y surf de remo. Las canoas con fondo de cristal ofrecen una experiencia unica."
+        },
+        {
+            "id": "201711151555472596",
+            "name": "Ameera Maldives",
+            "propertyType": "Guest House",
+            "starRating": 3,
+            "categories": [
+                "Romantic Stays",
+                "Best For Indians",
+                "Travel Assist",
+                "Speed Boat",
+                "Indian food at the property"
+            ],
+            "cat_spanish": [
+                "Estancias Romanticas",
+                "Lo mejor para los indios",
+                "Asistente de viaje",
+                "Lancha rapida",
+                "Comida india en la propiedad"
+            ],
+            "media": [
+                "https://r1imghtlak.mmtcdn.com/1f809fe403f911e7a66c0224510f5e5b.jpg",
+                "https://r1imghtlak.mmtcdn.com/200749fe03f911e7b2db0a9df65c8753.jpg",
+                "https://r1imghtlak.mmtcdn.com/2372fe9403f911e7b5b70a209fbd0127.jpg",
+                "https://r1imghtlak.mmtcdn.com/22f2139c03f911e7a9950a209fbd0127.jpg",
+                "https://r1imghtlak.mmtcdn.com/24f4052403f911e783240a209fbd0127.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.44084,
+                "longitude": 73.71407
+            },
+            "desc": "Ameera Maldives is set in North Kaafu Atoll, Dhiffushi, surrounded by a naturally beautiful and expansive lagoon. Guests can enjoy the on-site restaurant. Every room at this guest house is air conditioned and features a flat-screen TV. You will find a kettle in the room. Each room comes with a private bathroom. Ameera Maldives features free WiFi throughout the property.",
+
+            "desc_spanish": "Ameera Maldives se encuentra en el atolon Kaafu del norte, Dhiffushi, rodeado por una laguna naturalmente hermosa y expansiva. Los huespedes pueden disfrutar del restaurante del hotel. Todas las habitaciones de este hostal tienen aire acondicionado y cuentan con TV de pantalla plana. Encontrara un hervidor de agua en la habitacion. Cada habitacion viene con un bano privado. Ameera Maldives cuenta con Wi-Fi gratuita en todo el edificio."
+        },
+        {
+            "id": "202005151220083929",
+            "name": "Casa Retreat",
+            "propertyType": "Hotel",
+            "starRating": 3,
+            "categories": [
+                "Economical Transfer Cost Maldives",
+                "Accessible by Road"
+            ],
+            "cat_spanish": [
+                "Costo de Transferencia Economica Maldivas",
+                "Accesible por Carretera"
+            ],
+            "media": [
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/202005151220083929-e5dcde94_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/202005151220083929-d44d864c_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/202005151220083929-9be18e48_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/202005151220083929-e8f1a4e2_z.jpg",
+                "https://gommts3.mmtcdn.com/htl-imgs/htl-imgs/202005151220083929-e7da99f6_z.jpg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 4.22062,
+                "longitude": 73.54582
+            },
+            "desc": "Treat yourself with massages, body treatments, and facials. Additional amenities at this hotel include a hair salon, a television in a common area, and barbecue grills.Take advantage of the hotel's room service (during limited hours).Featured amenities include a 24-hour front desk, an elevator, and microwave in a common area. A roundtrip airport shuttle is provided for a surcharge (available 24 hours), and free self parking is available onsite.Make yourself at home in one of the 15 guestrooms featuring refrigerators. Complimentary wireless Internet access keeps you connected, and cable programming is available for your entertainment. Bathrooms have showers and complimentary toiletries.",
+
+            "desc_spanish": "Date un capricho con masajes, tratamientos corporales y faciales. Entre los servicios adicionales de este hotel se incluyen una peluqueria, un televisor en las areas comunes y un area para parrillas. Aproveche el servicio a la habitacion de este hotel (con horario limitado). Tendras servicio de recepcion las 24 horas, ascensor y microondas en la habitacion a tu disposicion. un area comun. Se ofrece servicio de transporte al aeropuerto (ida y vuelta) de pago (disponible las 24 horas) y hay un aparcamiento sin asistencia gratuito disponible. Te sentiras como en tu propia casa en una de las 15 habitaciones con frigorifico. El acceso inalambrico a Internet de cortesia lo mantiene conectado y la programacion por cable esta disponible para su entretenimiento. Los banos tienen duchas y articulos de tocador de cortesia."
+        },
+        {
+            "id": "202002131255093478",
+            "name": "Cinnamon Hakuraa Huraa Maldives- All Inclusive ",
+            "propertyType": "Resort",
+            "starRating": 4,
+            "categories": [
+                "SIMPLYWOW Deals",
+                "Beachfront",
+                "Beach Villa",
+                "All-Inclusive Meals and Drinks",
+                "Kid Friendly"
+            ],
+            "cat_spanish": [
+                "Ofertas SIMPLYWOW",
+                "Frente a la playa",
+                "Villa de Playa",
+                "Comidas y Bebidas Todo Incluido",
+                "Amigable para ninos"
+            ],
+            "media": [
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202002131255093478-5162a25c066c11ed95220a58a9feac02.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202002131255093478-e451e2b471f511ecb5ce0a58a9feac02.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202002131255093478-c66ca14e71f511eca9c30a58a9feac02.jpg",
+                "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/202002131255093478-c64d978671f511ec84b50a58a9feac02.jpg",
+                "https://r1imghtlak.mmtcdn.com/beb4aac871f511ec83070a58a9feac02.jpeg"
+            ],
+            "locationDetail": {
+                "id": "CTMALDI",
+                "name": "Maldives",
+                "type": "city",
+                "countryId": "MDV",
+                "countryName": "Maldives"
+            },
+            "geoLocation": {
+                "latitude": 2.85368,
+                "longitude": 73.53906
+            },
+            "desc": "The property opened in 1999 and was last renovated in 2019. It offers luxurious bungalows set across the beach or overwater.\n\nAll the bungalows here boast stunning ocean views.\n\nWith an entire island to themselves, adults can enjoy leisurely swims in the adults-only pool. Relax on the private beaches, or head to the luxury spa for a couples therapy.There is a separate island for families with a pool, kids' pool and a play area. In the evenings, DJ nights, live music and themed parties are held regularly.Indoor recreational facilities include billiards, foosball, table tennis and darts. Guests can also sign up for water sports such as snorkelling with sea turtles, scuba diving and kayaking.Picnics on deserted sandbanks can be arranged for both families and couples.",
+
+            "desc_spanish": "La propiedad se inauguro en 1999 y se renovo por ultima vez en 2019. Ofrece lujosos bungalows ubicados frente a la playa o sobre el agua.\n\nTodos los bungalows aqui cuentan con impresionantes vistas al oceano.\n\nCon una isla entera para ellos solos, los adultos pueden disfrutar nadando tranquilamente en la piscina solo para adultos. Relajese en las playas privadas o dirijase al spa de lujo para una terapia de pareja. Hay una isla separada para familias con piscina, piscina para ninos y area de juegos. Por las noches, se organizan regularmente noches de DJ, musica en vivo y fiestas tematicas.Las instalaciones recreativas cubiertas incluyen billar, futbolin, ping-pong y dardos. Los huespedes tambien pueden inscribirse en deportes acuaticos como snorkel con tortugas marinas, buceo y kayak. Se pueden organizar comidas campestres en bancos de arena desiertos tanto para familias como para parejas."
+        }
+    ]
+}
