@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1Fy-Ly-8a6"; */
+"1Fy-Ly-8a6.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "1al-Cc-R7s"; */
+"1al-Cc-R7s.placeholder" = "Correo electrónico";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7wJ-bp-VE9"; */
+"7wJ-bp-VE9.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9oY-JG-3GY"; */
+"9oY-JG-3GY.text" = "Label";
+
+/* Class = "UILabel"; text = "MyHotels ® presents a platform that aims to solve problems concerning travel domestic and international. MyHotels® will solve major travel management problems by providing customers access to its robust platform."; ObjectID = "Ert-u9-Ztf"; */
+"Ert-u9-Ztf.text" = "MyHotels ® presenta una plataforma que tiene como objetivo resolver los problemas relacionados con los viajes nacionales e internacionales. MyHotels® resolverá los principales problemas de gestión de viajes al proporcionar a los clientes acceso a su sólida plataforma.";
+
+/* Class = "UITabBarItem"; title = "Contact Us"; ObjectID = "GQo-QP-wWA"; */
+"GQo-QP-wWA.title" = "Contacta con nosotras";
+
+/* Class = "UITabBarItem"; title = "About Us"; ObjectID = "Mt4-lL-Xmb"; */
+"Mt4-lL-Xmb.title" = "Sobre nosotras";
+
+/* Class = "UILabel"; text = "Taj Mahal"; ObjectID = "Qb8-bt-41B"; */
+"Qb8-bt-41B.text" = "Taj Mahal";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "UEg-fh-MWn"; */
+"UEg-fh-MWn.normalTitle" = "Enviar";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "ZD6-tF-R8B"; */
+"ZD6-tF-R8B.placeholder" = "Teléfono";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aXF-tN-bWB"; */
+"aXF-tN-bWB.text" = "Label";
+
+/* Class = "UILabel"; text = "The Taj Mahal, is an Islamic ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1631 by the Mughal emperor Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself."; ObjectID = "bwd-EF-a3X"; */
+"bwd-EF-a3X.text" = "The Taj Mahal, is an Islamic ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1631 by the Mughal emperor Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself.";
+
+/* Class = "UILabel"; text = "Categories:"; ObjectID = "cwR-mv-h8z"; */
+"cwR-mv-h8z.text" = "Categorías:";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "dar-sz-Bbs"; */
+"dar-sz-Bbs.placeholder" = "Primer nombre";
+
+/* Class = "UIButton"; normalTitle = "Add To Favorite"; ObjectID = "hWP-3W-SQ7"; */
+"hWP-3W-SQ7.normalTitle" = "Add To Favorite";
+
+/* Class = "UITabBarItem"; title = "Favorite"; ObjectID = "pVG-UL-HAq"; */
+"pVG-UL-HAq.title" = "Favorita";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "r9j-RZ-lBK"; */
+"r9j-RZ-lBK.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rur-94-4MP"; */
+"rur-94-4MP.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "t1k-lo-kPQ"; */
+"t1k-lo-kPQ.placeholder" = "Apellido";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "wrU-UX-Mwg"; */
+"wrU-UX-Mwg.title" = "Hogar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xyV-LW-8Dj"; */
+"xyV-LW-8Dj.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Zip Code"; ObjectID = "z5w-Mc-pav"; */
+"z5w-Mc-pav.placeholder" = "Código postal";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zC2-xP-3Nl"; */
+"zC2-xP-3Nl.text" = "Label";
