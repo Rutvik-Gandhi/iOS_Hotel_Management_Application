@@ -55,7 +55,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Support
-For any inquiries or support requests, please contact us at support@example.com. We're here to help!
+For any inquiries or support requests, please contact us at gandhirutvik1100@gmail.com I'm here to help!
 
 Acknowledgements
 We would like to thank the following open-source projects and resources for their invaluable contributions to this application:
